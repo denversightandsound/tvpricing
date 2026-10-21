@@ -1,0 +1,47 @@
+html,body{background:#0E1012}
+
+#dss-tv{--bg:#0E1012;--panel:#171A1D;--fg:#F1F2F3;--muted:#A0A7AE;--line:#2A2F34;--accent:#F2B544;--good:#6BD49B;
+  background:var(--bg);color:var(--fg);font-family:'IBM Plex Sans',system-ui,sans-serif;font-size:15px;line-height:1.45;
+  padding:32px max(16px,env(safe-area-inset-right,0px)) 40px max(16px,env(safe-area-inset-left,0px));border-radius:0;box-sizing:border-box;min-height:100vh;margin:0}
+#dss-tv *{box-sizing:border-box}
+#dss-tv .in{max-width:1200px;margin:0 auto;display:flex;flex-direction:column;gap:20px}
+#dss-tv .eyebrow{color:var(--accent);font-size:12px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;margin:0}
+#dss-tv h2{font-family:'Archivo',system-ui,sans-serif;font-weight:800;font-size:clamp(28px,4vw,44px);line-height:1.05;margin:4px 0 8px;color:var(--fg);text-wrap:balance}
+#dss-tv .lede{color:var(--muted);max-width:640px;margin:0}
+#dss-tv .controls{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:flex-end;padding:16px 0;border-block:1px solid var(--line)}
+#dss-tv .grp{display:flex;flex-direction:column;gap:6px;min-width:0}
+#dss-tv .lbl{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+#dss-tv .chips{display:flex;flex-wrap:wrap;gap:6px}
+#dss-tv .chip{min-height:40px;padding:0 14px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--fg);font:inherit;font-size:14px;cursor:pointer}
+#dss-tv .chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#1A1405;font-weight:600}
+#dss-tv .chip:focus-visible,#dss-tv select:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+#dss-tv select{min-height:40px;padding:0 12px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--fg);font:inherit;font-size:14px}
+#dss-tv .count{margin-left:auto;color:var(--muted);font-size:13px}
+#dss-tv .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px;align-items:start}
+#dss-tv .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:10px}
+#dss-tv .top{display:flex;justify-content:space-between;align-items:center;gap:8px}
+#dss-tv .brand{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+#dss-tv .tag{font-size:11px;font-weight:600;padding:3px 9px;border-radius:999px;border:1px solid var(--line);color:var(--fg)}
+#dss-tv .name{font-family:'Archivo',system-ui,sans-serif;font-weight:600;font-size:19px;line-height:1.2;margin:0;color:var(--fg)}
+#dss-tv .model{color:var(--muted);font-size:13px;margin:0}
+#dss-tv .prices{margin-top:auto;padding-top:12px;border-top:1px solid var(--line);display:flex;justify-content:space-between;align-items:flex-end;gap:8px}
+#dss-tv .bb{color:var(--muted);font-size:13px}
+#dss-tv .bb s{font-variant-numeric:tabular-nums}
+#dss-tv .ours{font-family:'Archivo',system-ui,sans-serif;font-weight:800;font-size:26px;color:var(--fg);font-variant-numeric:tabular-nums;line-height:1}
+#dss-tv .ourlbl{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);margin-bottom:4px}
+#dss-tv .save{font-size:12px;font-weight:600;color:var(--good);text-align:right}
+#dss-tv .match{font-size:12px;font-weight:600;color:var(--accent);text-align:right}
+#dss-tv .pic{background:#fff;border-radius:8px;aspect-ratio:16/10;display:flex;align-items:center;justify-content:center;overflow:hidden;margin:-4px -4px 2px}
+#dss-tv .pic img{width:100%;height:100%;object-fit:contain;padding:8px;box-sizing:border-box}
+#dss-tv details{border-top:1px solid var(--line);padding-top:10px}
+#dss-tv summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;min-height:32px;font-size:13px;font-weight:600;color:var(--accent)}
+#dss-tv summary::-webkit-details-marker{display:none}
+#dss-tv summary::after{content:"+";font-size:18px;line-height:1}
+#dss-tv details[open] summary::after{content:"\2013"}
+#dss-tv summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
+#dss-tv details ul{margin:6px 0 0;padding-left:18px;color:var(--fg);font-size:13.5px;line-height:1.5}
+#dss-tv details li{margin:3px 0}
+#dss-tv details li::marker{color:var(--accent)}
+#dss-tv .empty{color:var(--muted);padding:40px 0;text-align:center}
+#dss-tv .fine{color:var(--muted);font-size:12px;border-top:1px solid var(--line);padding-top:16px;margin:0}
+#dss-tv .fine a{color:var(--accent)}
