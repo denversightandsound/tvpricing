@@ -1,0 +1,726 @@
+{
+ "checked": "Oct 16\u201320, 2026",
+ "tvs": [
+  {
+   "brand": "Sony",
+   "model": "XR48A90K",
+   "size": 48,
+   "tech": "OLED",
+   "series": "A90K OLED (2022)",
+   "bb": 1399.99,
+   "ours": 1374.99,
+   "img": "XR48A90K",
+   "details": [
+    "OLED panel with Sony's Cognitive Processor XR",
+    "XR OLED Contrast Pro and XR Triluminos Pro color",
+    "HDMI 2.1 gaming: 4K/120, VRR and ALLM, with PS5 features",
+    "Dolby Vision, IMAX Enhanced and Netflix Adaptive Calibrated Mode",
+    "Acoustic Surface Audio+: sound comes from the screen itself",
+    "Google TV with Google Assistant and Apple AirPlay 2"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "KD32W830K",
+   "size": 32,
+   "tech": "LED",
+   "series": "W830K HD LED",
+   "bb": 299.99,
+   "ours": 299.99,
+   "img": "KD32W830K",
+   "details": [
+    "32\" HD (720p) LED panel with HDR",
+    "Google TV smart platform with Google Assistant",
+    "Apple AirPlay 2 and Chromecast built-in",
+    "A good fit for kitchens, offices and bedrooms"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN85LST9CA",
+   "size": 85,
+   "tech": "Outdoor",
+   "series": "The Terrace Full Sun outdoor Neo QLED",
+   "bb": 19999.99,
+   "ours": 19799.99,
+   "img": "QN85LST9CA",
+   "details": [
+    "Outdoor TV for full direct sun",
+    "Neo QLED 4K with brightness that adjusts to outdoor light",
+    "IP56 rated against water and dust",
+    "Built for patios, pools and backyards year-round"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN85LST7CA",
+   "size": 85,
+   "tech": "Outdoor",
+   "series": "The Terrace Partial Sun outdoor QLED",
+   "bb": 9999.99,
+   "ours": 9799.99,
+   "img": "QN85LST7CA",
+   "details": [
+    "Outdoor TV for shaded or partly shaded spaces",
+    "Neo QLED 4K picture tuned for outdoor viewing",
+    "IP56 rated against water and dust",
+    "Best under a covered patio or pergola, out of direct sun"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K55XR80",
+   "size": 55,
+   "tech": "OLED",
+   "series": "BRAVIA 8 OLED",
+   "bb": 1599.99,
+   "ours": 1574.99,
+   "img": "K55XR80",
+   "details": [
+    "BRAVIA 8 OLED: over 8 million self-lit pixels for true black",
+    "XR Contrast Booster and XR Triluminos Pro color",
+    "XR Processor for real-time picture enhancement",
+    "Acoustic Surface Audio+: sound comes from the screen",
+    "Google TV with Google Assistant and AirPlay 2",
+    "HDMI 2.1 gaming features with PS5 extras"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K65XR80",
+   "size": 65,
+   "tech": "OLED",
+   "series": "BRAVIA 8 OLED",
+   "bb": 1999.99,
+   "ours": 1949.99,
+   "img": "K55XR80",
+   "details": [
+    "BRAVIA 8 OLED: over 8 million self-lit pixels for true black",
+    "XR Contrast Booster and XR Triluminos Pro color",
+    "XR Processor for real-time picture enhancement",
+    "Acoustic Surface Audio+: sound comes from the screen",
+    "Google TV with Google Assistant and AirPlay 2",
+    "HDMI 2.1 gaming features with PS5 extras"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K75S30",
+   "size": 75,
+   "tech": "LED",
+   "series": "BRAVIA 3 LED",
+   "bb": 1284.99,
+   "ours": 1184.99,
+   "img": "K43S30",
+   "details": [
+    "BRAVIA 3 4K HDR LED",
+    "4K HDR Processor X1 with Triluminos Pro color",
+    "Google TV with Google Assistant",
+    "Apple AirPlay 2 and Chromecast built-in",
+    "Dolby Vision and Dolby Atmos support"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K75XR90",
+   "size": 75,
+   "tech": "Mini-LED",
+   "series": "BRAVIA 9 Mini LED",
+   "bb": 3398.0,
+   "ours": 3198.0,
+   "img": "K65XR90",
+   "details": [
+    "BRAVIA 9: Sony's brightest 4K TV",
+    "Thousands of Mini LEDs with XR Backlight Master Drive",
+    "XR Contrast Booster 30 and QLED color with XR Triluminos Pro",
+    "X-Wide Angle and X-Anti Reflection for bright rooms",
+    "Google TV, AirPlay 2 and HDMI 2.1 gaming"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K77XR80",
+   "size": 77,
+   "tech": "OLED",
+   "series": "BRAVIA 8 OLED",
+   "bb": 2799.99,
+   "ours": 2699.99,
+   "img": "K77XR80",
+   "details": [
+    "BRAVIA 8 OLED: over 8 million self-lit pixels for true black",
+    "XR Contrast Booster and XR Triluminos Pro color",
+    "XR Processor for real-time picture enhancement",
+    "Acoustic Surface Audio+: sound comes from the screen",
+    "Google TV with Google Assistant and AirPlay 2",
+    "HDMI 2.1 gaming features with PS5 extras"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "UN40F6000F",
+   "size": 40,
+   "tech": "LED",
+   "series": "F6000F Full HD (2025)",
+   "bb": 199.99,
+   "ours": 199.99,
+   "img": "UN32F6000FFXZA_005_Front_Black",
+   "details": [
+    "Full HD LED smart TV (2025)",
+    "Samsung Tizen smart platform with Samsung TV Plus free channels",
+    "Samsung Knox security for your apps and accounts",
+    "Simple, budget-friendly choice for secondary rooms"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "UN32F6000F",
+   "size": 32,
+   "tech": "LED",
+   "series": "F6000F Full HD (2025)",
+   "bb": 179.99,
+   "ours": 179.99,
+   "img": "UN32F6000FFXZA_005_Front_Black",
+   "details": [
+    "Full HD LED smart TV (2025)",
+    "Samsung Tizen smart platform with Samsung TV Plus free channels",
+    "Samsung Knox security for your apps and accounts",
+    "Simple, budget-friendly choice for secondary rooms"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K98XR50",
+   "size": 98,
+   "tech": "Mini-LED",
+   "series": "BRAVIA 5 Mini LED (2025)",
+   "bb": 4999.99,
+   "ours": 4799.99,
+   "img": "K98XR50",
+   "details": [
+    "BRAVIA 5 Mini LED with XR Backlight Master Drive",
+    "XR Triluminos Pro color",
+    "XR Processor with AI Super Resolution upscaling",
+    "Google TV, Google Assistant, AirPlay 2 and Google Cast",
+    "Studio-calibrated modes plus IMAX Enhanced movies in Sony Pictures Core"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K85XR50",
+   "size": 85,
+   "tech": "Mini-LED",
+   "series": "BRAVIA 5 Mini LED (2025)",
+   "bb": 2398,
+   "ours": 2348,
+   "img": "K98XR50",
+   "details": [
+    "BRAVIA 5 Mini LED with XR Backlight Master Drive",
+    "XR Triluminos Pro color",
+    "XR Processor with AI Super Resolution upscaling",
+    "Google TV, Google Assistant, AirPlay 2 and Google Cast",
+    "Studio-calibrated modes plus IMAX Enhanced movies in Sony Pictures Core"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K75XR50",
+   "size": 75,
+   "tech": "Mini-LED",
+   "series": "BRAVIA 5 Mini LED (2025)",
+   "bb": 1999.99,
+   "ours": 1949.99,
+   "img": "K98XR50",
+   "details": [
+    "BRAVIA 5 Mini LED with XR Backlight Master Drive",
+    "XR Triluminos Pro color",
+    "XR Processor with AI Super Resolution upscaling",
+    "Google TV, Google Assistant, AirPlay 2 and Google Cast",
+    "Studio-calibrated modes plus IMAX Enhanced movies in Sony Pictures Core"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K65XR50",
+   "size": 65,
+   "tech": "Mini-LED",
+   "series": "BRAVIA 5 Mini LED",
+   "bb": 1499.99,
+   "ours": 1474.99,
+   "img": "K98XR50",
+   "details": [
+    "BRAVIA 5 Mini LED with XR Backlight Master Drive",
+    "XR Triluminos Pro color",
+    "XR Processor with AI Super Resolution upscaling",
+    "Google TV, Google Assistant, AirPlay 2 and Google Cast",
+    "Studio-calibrated modes plus IMAX Enhanced movies in Sony Pictures Core"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K55XR50",
+   "size": 55,
+   "tech": "Mini-LED",
+   "series": "BRAVIA 5 Mini LED",
+   "bb": 1398,
+   "ours": 1373,
+   "img": "K98XR50",
+   "details": [
+    "BRAVIA 5 Mini LED with XR Backlight Master Drive",
+    "XR Triluminos Pro color",
+    "XR Processor with AI Super Resolution upscaling",
+    "Google TV, Google Assistant, AirPlay 2 and Google Cast",
+    "Studio-calibrated modes plus IMAX Enhanced movies in Sony Pictures Core"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "115QM7K",
+   "size": 115,
+   "tech": "Mini-LED",
+   "series": "QM7K QD-Mini LED",
+   "bb": 17999.99,
+   "ours": 17799.99,
+   "img": "115QM7K",
+   "details": [
+    "QD-Mini LED with up to 2,500 dimming zones (size-dependent)",
+    "Up to HDR 3000 brightness",
+    "144Hz native refresh, Game Accelerator 288 and FreeSync Premium Pro",
+    "Dolby Vision IQ, HDR10+ and IMAX Enhanced",
+    "Onkyo 4.2.2 speakers with Dolby Atmos",
+    "Google TV, Chromecast built-in and AirPlay 2"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN115QN90F",
+   "size": 115,
+   "tech": "Mini-LED",
+   "series": "QN90F Neo QLED (2025)",
+   "bb": 19999.99,
+   "ours": 19799.99,
+   "img": "QN115QN90F",
+   "details": [
+    "Neo QLED Quantum Matrix Mini LED",
+    "Glare Free screen made for bright rooms",
+    "NQ4 AI Gen3 processor with 4K AI Upscaling Pro",
+    "Motion Xcelerator 165Hz",
+    "Dolby Atmos with Object Tracking Sound+",
+    "Samsung Vision AI with One UI Tizen"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "98QM8K",
+   "size": 98,
+   "tech": "Mini-LED",
+   "series": "QM8K QD-Mini LED",
+   "bb": 3999.99,
+   "ours": 3799.99,
+   "img": "98QM8K",
+   "details": [
+    "QD-Mini LED with up to 3,800 dimming zones",
+    "Up to HDR 5000 brightness",
+    "144Hz native refresh, Game Accelerator 288 and FreeSync Premium Pro",
+    "Dolby Vision IQ, HDR10+ and IMAX Enhanced",
+    "Audio by Bang & Olufsen with Dolby Atmos",
+    "Google TV with ATSC 3.0 NextGen TV tuner and Wi-Fi 6"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "MRN115MR95F",
+   "size": 115,
+   "tech": "RGB",
+   "series": "Micro RGB",
+   "bb": 29999.99,
+   "ours": 29799.99,
+   "img": "MRN115MR95F",
+   "details": [
+    "Samsung Micro RGB: separate red, green and blue micro LEDs light the screen",
+    "Very wide color range with precise local control",
+    "Samsung Vision AI processing",
+    "A 115\" flagship statement screen"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "98X11L",
+   "size": 98,
+   "tech": "Mini-LED",
+   "series": "X11L SQD-Mini LED (2026)",
+   "bb": 7999.99,
+   "ours": 7799.99,
+   "img": "75X11L",
+   "details": [
+    "TCL's flagship SQD-Mini LED",
+    "Up to 20,000 local dimming zones (series)",
+    "Up to 10,000 nits peak brightness (series)",
+    "WHVA 2.0 Ultra panel for wide viewing angles",
+    "UltraThin design with audio by Bang & Olufsen",
+    "Google TV"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "85X11L",
+   "size": 85,
+   "tech": "Mini-LED",
+   "series": "X11L SQD-Mini LED (2026)",
+   "bb": 7999.99,
+   "ours": 7799.99,
+   "img": "75X11L",
+   "details": [
+    "TCL's flagship SQD-Mini LED",
+    "Up to 20,000 local dimming zones (series)",
+    "Up to 10,000 nits peak brightness (series)",
+    "WHVA 2.0 Ultra panel for wide viewing angles",
+    "UltraThin design with audio by Bang & Olufsen",
+    "Google TV"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "75X11L",
+   "size": 75,
+   "tech": "Mini-LED",
+   "series": "X11L SQD-Mini LED (2026)",
+   "bb": 2999.99,
+   "ours": 2899.99,
+   "img": "75X11L",
+   "details": [
+    "TCL's flagship SQD-Mini LED",
+    "Up to 20,000 local dimming zones (series)",
+    "Up to 10,000 nits peak brightness (series)",
+    "WHVA 2.0 Ultra panel for wide viewing angles",
+    "UltraThin design with audio by Bang & Olufsen",
+    "Google TV"
+   ]
+  },
+  {
+   "brand": "LG",
+   "model": "100QNED84",
+   "size": 100,
+   "tech": "Mini-LED",
+   "series": "QNED evo QNED84B Mini LED (2026)",
+   "bb": 3299.99,
+   "ours": 3099.99,
+   "img": "55QNED84",
+   "details": [
+    "QNED evo Mini LED with Dynamic QNED Color Pro",
+    "a8 AI Processor 4K Gen3",
+    "VRR 144Hz and Motion Booster 288 for gaming",
+    "Dolby Vision, Dolby Atmos and FILMMAKER MODE",
+    "webOS 2026 with free LG Channels"
+   ]
+  },
+  {
+   "brand": "LG",
+   "model": "55QNED84",
+   "size": 55,
+   "tech": "Mini-LED",
+   "series": "QNED evo QNED84B Mini LED (2026)",
+   "bb": 599.99,
+   "ours": 574.99,
+   "img": "55QNED84",
+   "details": [
+    "QNED evo Mini LED with Dynamic QNED Color Pro",
+    "a8 AI Processor 4K Gen3",
+    "VRR 144Hz and Motion Booster 288 for gaming",
+    "Dolby Vision, Dolby Atmos and FILMMAKER MODE",
+    "webOS 2026 with free LG Channels"
+   ]
+  },
+  {
+   "brand": "LG",
+   "model": "OLED48C6",
+   "size": 48,
+   "tech": "OLED",
+   "series": "OLED evo C6 (2026)",
+   "bb": 1099.99,
+   "ours": 1049.99,
+   "img": "OLED83C6",
+   "details": [
+    "LG OLED evo C6: over 8.3 million self-lit pixels",
+    "Alpha 11 AI Processor Gen3",
+    "120Hz with NVIDIA G-Sync and AMD FreeSync Premium",
+    "Dolby Vision and Dolby Atmos",
+    "4 HDMI inputs",
+    "webOS 26 with Google Gemini and Microsoft Copilot voice"
+   ]
+  },
+  {
+   "brand": "LG",
+   "model": "OLED42C6",
+   "size": 42,
+   "tech": "OLED",
+   "series": "OLED evo C6 (2026)",
+   "bb": 999.99,
+   "ours": 974.99,
+   "img": "OLED83C6",
+   "details": [
+    "LG OLED evo C6: over 8.3 million self-lit pixels",
+    "Alpha 11 AI Processor Gen3",
+    "120Hz with NVIDIA G-Sync and AMD FreeSync Premium",
+    "Dolby Vision and Dolby Atmos",
+    "4 HDMI inputs",
+    "webOS 26 with Google Gemini and Microsoft Copilot voice"
+   ]
+  },
+  {
+   "brand": "LG",
+   "model": "OLED55C6",
+   "size": 55,
+   "tech": "OLED",
+   "series": "OLED evo C6 (2026)",
+   "bb": 1399.99,
+   "ours": 1349.99,
+   "img": "OLED83C6",
+   "details": [
+    "LG OLED evo C6: over 8.3 million self-lit pixels",
+    "Alpha 11 AI Processor Gen3",
+    "120Hz with NVIDIA G-Sync and AMD FreeSync Premium",
+    "Dolby Vision and Dolby Atmos",
+    "4 HDMI inputs",
+    "webOS 26 with Google Gemini and Microsoft Copilot voice"
+   ]
+  },
+  {
+   "brand": "LG",
+   "model": "OLED55G6",
+   "size": 55,
+   "tech": "OLED",
+   "series": "OLED evo G6 (2026)",
+   "bb": 1999.99,
+   "ours": 1899.99,
+   "img": "OLED97G6",
+   "details": [
+    "LG OLED evo G6 with Brightness Booster",
+    "Alpha 11 AI Processor Gen3, LG's most powerful",
+    "Flush Fit Gallery Design hangs nearly flat on the wall",
+    "Up to 165Hz, G-Sync, FreeSync Premium and 0.1ms response",
+    "Dolby Vision, Dolby Atmos and FILMMAKER MODE",
+    "5-year panel warranty"
+   ]
+  },
+  {
+   "brand": "LG",
+   "model": "OLED65C6",
+   "size": 65,
+   "tech": "OLED",
+   "series": "OLED evo C6 (2026)",
+   "bb": 1499.99,
+   "ours": 1449.99,
+   "img": "OLED83C6",
+   "details": [
+    "LG OLED evo C6: over 8.3 million self-lit pixels",
+    "Alpha 11 AI Processor Gen3",
+    "120Hz with NVIDIA G-Sync and AMD FreeSync Premium",
+    "Dolby Vision and Dolby Atmos",
+    "4 HDMI inputs",
+    "webOS 26 with Google Gemini and Microsoft Copilot voice"
+   ]
+  },
+  {
+   "brand": "LG",
+   "model": "OLED65G6",
+   "size": 65,
+   "tech": "OLED",
+   "series": "OLED evo G6 (2026)",
+   "bb": 2499.99,
+   "ours": 2299.99,
+   "img": "OLED97G6",
+   "details": [
+    "LG OLED evo G6 with Brightness Booster",
+    "Alpha 11 AI Processor Gen3, LG's most powerful",
+    "Flush Fit Gallery Design hangs nearly flat on the wall",
+    "Up to 165Hz, G-Sync, FreeSync Premium and 0.1ms response",
+    "Dolby Vision, Dolby Atmos and FILMMAKER MODE",
+    "5-year panel warranty"
+   ]
+  },
+  {
+   "brand": "LG",
+   "model": "OLED77G6",
+   "size": 77,
+   "tech": "OLED",
+   "series": "OLED evo G6 (2026)",
+   "bb": 3799.99,
+   "ours": 3599.99,
+   "img": "OLED97G6",
+   "details": [
+    "LG OLED evo G6 with Brightness Booster",
+    "Alpha 11 AI Processor Gen3, LG's most powerful",
+    "Flush Fit Gallery Design hangs nearly flat on the wall",
+    "Up to 165Hz, G-Sync, FreeSync Premium and 0.1ms response",
+    "Dolby Vision, Dolby Atmos and FILMMAKER MODE",
+    "5-year panel warranty"
+   ]
+  },
+  {
+   "brand": "LG",
+   "model": "OLED83G6",
+   "size": 83,
+   "tech": "OLED",
+   "series": "OLED evo G6 (2026)",
+   "bb": 5499.99,
+   "ours": 5299.99,
+   "img": "OLED97G6",
+   "details": [
+    "LG OLED evo G6 with Brightness Booster",
+    "Alpha 11 AI Processor Gen3, LG's most powerful",
+    "Flush Fit Gallery Design hangs nearly flat on the wall",
+    "Up to 165Hz, G-Sync, FreeSync Premium and 0.1ms response",
+    "Dolby Vision, Dolby Atmos and FILMMAKER MODE",
+    "5-year panel warranty"
+   ]
+  },
+  {
+   "brand": "LG",
+   "model": "OLED83C6",
+   "size": 83,
+   "tech": "OLED",
+   "series": "OLED evo C6 (2026)",
+   "bb": 3799.99,
+   "ours": 3599.99,
+   "img": "OLED83C6",
+   "details": [
+    "LG OLED evo C6: over 8.3 million self-lit pixels",
+    "Alpha 11 AI Processor Gen3",
+    "120Hz with NVIDIA G-Sync and AMD FreeSync Premium",
+    "Dolby Vision and Dolby Atmos",
+    "4 HDMI inputs",
+    "webOS 26 with Google Gemini and Microsoft Copilot voice"
+   ]
+  },
+  {
+   "brand": "LG",
+   "model": "OLED97G6",
+   "size": 97,
+   "tech": "OLED",
+   "series": "OLED evo G6 (2026)",
+   "bb": 19999.99,
+   "ours": 19799.99,
+   "img": "OLED97G6",
+   "details": [
+    "LG OLED evo G6 with Brightness Booster",
+    "Alpha 11 AI Processor Gen3, LG's most powerful",
+    "Flush Fit Gallery Design hangs nearly flat on the wall",
+    "Up to 165Hz, G-Sync, FreeSync Premium and 0.1ms response",
+    "Dolby Vision, Dolby Atmos and FILMMAKER MODE",
+    "5-year panel warranty"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN100QN80H",
+   "size": 100,
+   "tech": "Mini-LED",
+   "series": "QN80H Neo QLED (2026)",
+   "bb": 4499.99,
+   "ours": 4299.99,
+   "img": "QN75QN80HAFXZA_006_Front2_Titan-Black_1600x1200",
+   "details": [
+    "Neo QLED with Quantum Mini LED full-array backlight",
+    "Quantum Dot color that stays bold in bright scenes",
+    "NQ4 AI Gen2 processor with 4K upscaling",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN42S90HA",
+   "size": 42,
+   "tech": "OLED",
+   "series": "S90H OLED (2026)",
+   "bb": 999.99,
+   "ours": 974.99,
+   "img": "QN42S90HAEXZA_006_Front2_Graphite_Black",
+   "details": [
+    "Samsung OLED with Glare Free technology",
+    "NQ4 AI Gen3 processor with 128 neural networks",
+    "Ultimate Gaming Pack for smooth, low-lag play",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN48S85HA",
+   "size": 48,
+   "tech": "OLED",
+   "series": "S85H OLED (2026)",
+   "bb": 899.99,
+   "ours": 874.99,
+   "img": "QN65S85HAEXZA_006_Front2_Graphite_Black",
+   "details": [
+    "Samsung OLED with self-lit pixels for deep contrast",
+    "NQ4 AI Gen2 processor",
+    "Premium Gaming Pack",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN48S90HA",
+   "size": 48,
+   "tech": "OLED",
+   "series": "S90H OLED (2026)",
+   "bb": 1099.99,
+   "ours": 1049.99,
+   "img": "QN42S90HAEXZA_006_Front2_Graphite_Black",
+   "details": [
+    "Samsung OLED with Glare Free technology",
+    "NQ4 AI Gen3 processor with 128 neural networks",
+    "Ultimate Gaming Pack for smooth, low-lag play",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN50QN70HA",
+   "size": 50,
+   "tech": "Mini-LED",
+   "series": "QN70H Neo QLED (2026)",
+   "bb": 599.99,
+   "ours": 599.99,
+   "img": "QN75QN70HAFXZA_006_Front2_Black",
+   "details": [
+    "Neo QLED with Quantum Mini LED",
+    "100% Color Volume with Quantum Dot",
+    "AI processing for better picture and sound",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN55QN70HA",
+   "size": 55,
+   "tech": "Mini-LED",
+   "series": "QN70H Neo QLED (2026)",
+   "bb": 749.99,
+   "ours": 749.99,
+   "img": "QN75QN70HAFXZA_006_Front2_Black",
+   "details": [
+    "Neo QLED with Quantum Mini LED",
+    "100% Color Volume with Quantum Dot",
+    "AI processing for better picture and sound",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN85QN80HA",
+   "size": 85,
+   "tech": "Mini-LED",
+   "series": "QN80H Neo QLED (2026)",
+   "bb": 2199.99,
+   "ours": 2099.99,
+   "img": "QN75QN80HAFXZA_006_Front2_Titan-Black_1600x1200",
+   "details": [
+    "Neo QLED with Quantum Mini LED full-array backlight",
+    "Quantum Dot color that stays bold in bright scenes",
+    "NQ4 AI Gen2 processor with 4K upscaling",
+    "Samsung Vision AI with Tizen"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex, nofollow"><title>DS&amp;S TV Pricing</title><style>body{margin:0;background:#0E1012}</style></head><body>
+<!-- Denver Sight and Sound TV pricing block. Paste into an Elementor "HTML" widget. -->
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;800&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<div id="dss-tv">
+<style>
+#dss-tv{--bg:#0E1012;--panel:#171A1D;--fg:#F1F2F3;--muted:#A0A7AE;--line:#2A2F34;--accent:#F2B544;--good:#6BD49B;
+  background:var(--bg);color:var(--fg);font-family:'IBM Plex Sans',system-ui,sans-serif;font-size:15px;line-height:1.45;
+  padding:32px max(16px,env(safe-area-inset-right,0px)) 40px max(16px,env(safe-area-inset-left,0px));border-radius:14px;box-sizing:border-box}
+#dss-tv *{box-sizing:border-box}
+#dss-tv .in{max-width:1200px;margin:0 auto;display:flex;flex-direction:column;gap:20px}
+#dss-tv .eyebrow{color:var(--accent);font-size:12px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;margin:0}
+#dss-tv h2{font-family:'Archivo',system-ui,sans-serif;font-weight:800;font-size:clamp(28px,4vw,44px);line-height:1.05;margin:4px 0 8px;color:var(--fg);text-wrap:balance}
+#dss-tv .lede{color:var(--muted);max-width:640px;margin:0}
+#dss-tv .controls{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:flex-end;padding:16px 0;border-block:1px solid var(--line)}
+#dss-tv .grp{display:flex;flex-direction:column;gap:6px;min-width:0}
+#dss-tv .lbl{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+#dss-tv .chips{display:flex;flex-wrap:wrap;gap:6px}
+#dss-tv .chip{min-height:40px;padding:0 14px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--fg);font:inherit;font-size:14px;cursor:pointer}
+#dss-tv .chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#1A1405;font-weight:600}
+#dss-tv .chip:focus-visible,#dss-tv select:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+#dss-tv select{min-height:40px;padding:0 12px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--fg);font:inherit;font-size:14px}
+#dss-tv .count{margin-left:auto;color:var(--muted);font-size:13px}
+#dss-tv .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px;align-items:start}
+#dss-tv .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:10px}
+#dss-tv .top{display:flex;justify-content:space-between;align-items:center;gap:8px}
+#dss-tv .brand{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+#dss-tv .tag{font-size:11px;font-weight:600;padding:3px 9px;border-radius:999px;border:1px solid var(--line);color:var(--fg)}
+#dss-tv .name{font-family:'Archivo',system-ui,sans-serif;font-weight:600;font-size:19px;line-height:1.2;margin:0;color:var(--fg)}
+#dss-tv .model{color:var(--muted);font-size:13px;margin:0}
+#dss-tv .prices{margin-top:auto;padding-top:12px;border-top:1px solid var(--line);display:flex;justify-content:space-between;align-items:flex-end;gap:8px}
+#dss-tv .bb{color:var(--muted);font-size:13px}
+#dss-tv .bb s{font-variant-numeric:tabular-nums}
+#dss-tv .ours{font-family:'Archivo',system-ui,sans-serif;font-weight:800;font-size:26px;color:var(--fg);font-variant-numeric:tabular-nums;line-height:1}
+#dss-tv .ourlbl{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);margin-bottom:4px}
+#dss-tv .save{font-size:12px;font-weight:600;color:var(--good);text-align:right}
+#dss-tv .match{font-size:12px;font-weight:600;color:var(--accent);text-align:right}
+#dss-tv .pic{background:#fff;border-radius:8px;aspect-ratio:16/10;display:flex;align-items:center;justify-content:center;overflow:hidden;margin:-4px -4px 2px}
+#dss-tv .pic img{width:100%;height:100%;object-fit:contain;padding:8px;box-sizing:border-box}
+#dss-tv details{border-top:1px solid var(--line);padding-top:10px}
+#dss-tv summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;min-height:32px;font-size:13px;font-weight:600;color:var(--accent)}
+#dss-tv summary::-webkit-details-marker{display:none}
+#dss-tv summary::after{content:"+";font-size:18px;line-height:1}
+#dss-tv details[open] summary::after{content:"\2013"}
+#dss-tv summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
+#dss-tv details ul{margin:6px 0 0;padding-left:18px;color:var(--fg);font-size:13.5px;line-height:1.5}
+#dss-tv details li{margin:3px 0}
+#dss-tv details li::marker{color:var(--accent)}
+#dss-tv .empty{color:var(--muted);padding:40px 0;text-align:center}
+#dss-tv .fine{color:var(--muted);font-size:12px;border-top:1px solid var(--line);padding-top:16px;margin:0}
+#dss-tv .fine a{color:var(--accent)}
+</style>
+<div class="in">
+  <div>
+    <p class="eyebrow">Denver Sight and Sound · Client pricing</p>
+    <h2>DS&amp;S TV Pricing</h2>
+    <p class="lede">Check out our prices compared to the big box stores! We try to beat or match all authorized dealers. If you see better pricing, share the link and we can see what we can do!</p>
+    <p class="lede" style="margin-top:12px">We strive to get you the best tech at the best prices!</p>
+    <p class="lede" style="margin-top:12px;font-style:italic">Call us to confirm pricing and inventory.</p>
+  </div>
+  <div class="controls">
+    <div class="grp"><span class="lbl">Brand</span><div class="chips" data-f="brand"></div></div>
+    <div class="grp"><span class="lbl">Type</span><div class="chips" data-f="tech"></div></div>
+    <div class="grp"><label class="lbl" for="dss-size">Size</label>
+      <select id="dss-size"><option value="">All sizes</option><option value="0-50">Up to 50"</option><option value="51-65">55" – 65"</option><option value="66-85">75" – 85"</option><option value="86-999">97" and up</option></select></div>
+    <div class="grp"><label class="lbl" for="dss-sort">Sort</label>
+      <select id="dss-sort"><option value="size-asc">Size: small to large</option><option value="size-desc">Size: large to small</option><option value="price-asc">Price: low to high</option><option value="price-desc">Price: high to low</option><option value="save-desc">Biggest savings</option></select></div>
+    <span class="count" id="dss-count" aria-live="polite"></span>
+  </div>
+  <div class="grid" id="dss-grid"><div class="empty">Loading current pricing…</div></div>
+  <p class="fine">Best Buy prices checked <span id="dss-checked">recently</span> and may change. Pricing is for Denver Sight and Sound clients and subject to availability. Questions? Call <a href="tel:3032091038">303-209-1038</a>.</p>
+</div>
+<script>
+(function(){
+var BASE="https://denversightandsound.github.io/tvpricing/";
+fetch(BASE+"data.json?v="+Date.now(),{cache:"no-store"}).then(function(r){return r.json()}).then(function(D){
+var TVS=D.tvs;
+var ck=document.getElementById("dss-checked");if(ck&&D.checked)ck.textContent=D.checked;
+var root=document.getElementById("dss-tv"),st={brand:"",tech:""};
+var TYPES=["OLED","Mini-LED","RGB","Art","LED","Outdoor"];
+function money(v){return "$"+v.toLocaleString("en-US",{minimumFractionDigits:2,maximumFractionDigits:2})}
+root.querySelectorAll(".chips").forEach(function(box){
+  var f=box.getAttribute("data-f"),vals=f==="tech"?TYPES.filter(function(t){return TVS.some(function(r){return r.tech===t})}):Array.from(new Set(TVS.map(function(r){return r.brand}))).sort();
+  ["All"].concat(vals).forEach(function(v){var b=document.createElement("button");b.type="button";b.className="chip";b.textContent=v;
+    b.setAttribute("aria-pressed",v==="All"?"true":"false");
+    b.onclick=function(){st[f]=v==="All"?"":v;box.querySelectorAll(".chip").forEach(function(c){c.setAttribute("aria-pressed",c===b?"true":"false")});draw()};box.appendChild(b)});
+});
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function draw(){
+  var sz=document.getElementById("dss-size").value,so=document.getElementById("dss-sort").value.split("-");
+  var rows=TVS.filter(function(r){if(st.brand&&r.brand!==st.brand)return false;if(st.tech&&r.tech!==st.tech)return false;
+    if(sz){var a=sz.split("-").map(Number);if(r.size<a[0]||r.size>a[1])return false}return true});
+  rows.sort(function(a,b){var k=so[0],d=so[1]==="asc"?1:-1,x=k==="size"?a.size:k==="price"?a.ours:a.bb-a.ours,y=k==="size"?b.size:k==="price"?b.ours:b.bb-b.ours;return (x-y)*d||a.size-b.size});
+  document.getElementById("dss-count").textContent=rows.length+(rows.length===1?" TV":" TVs");
+  document.getElementById("dss-grid").innerHTML=rows.length?rows.map(function(r){var sv=Math.round((r.bb-r.ours)*100)/100;
+    return '<article class="card">'+(r.img?'<div class="pic"><img src="'+BASE+'img/'+encodeURIComponent(r.img)+'.jpg'+'" alt="'+esc(r.brand+' '+r.series)+'" loading="lazy" onerror="this.parentNode.remove()"></div>':'')+'<div class="top"><span class="brand">'+esc(r.brand)+'</span><span class="tag">'+esc(r.tech)+'</span></div>'+
+    '<h3 class="name">'+r.size+'" '+esc(r.series)+'</h3><p class="model">Model '+esc(r.model)+'</p>'+(r.details&&r.details.length?'<details><summary>TV details</summary><ul>'+r.details.map(function(d){return '<li>'+esc(d)+'</li>'}).join('')+'</ul></details>':'')+
+    '<div class="prices"><div><div class="ourlbl">Our price</div><div class="ours">'+money(r.ours)+'</div></div>'+
+    '<div><div class="bb">Best Buy <s>'+money(r.bb)+'</s></div>'+(sv>0?'<div class="save">Save '+money(sv)+'</div>':'<div class="match">Price matched</div>')+'</div></div></article>'}).join(""):
+    '<div class="empty">No TVs match those filters.</div>';
+}
+document.getElementById("dss-size").onchange=draw;document.getElementById("dss-sort").onchange=draw;draw();
+}).catch(function(){document.getElementById("dss-grid").innerHTML='<div class="empty">Pricing is loading slowly right now. Please refresh, or call us at 303-209-1038.</div>';});
+})();
+</script>
+</div>
+</body></html>
