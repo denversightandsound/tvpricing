@@ -1,5 +1,5 @@
 {
- "checked": "Oct 16\u201320, 2026",
+ "checked": "Oct 16\u201321, 2026",
  "tvs": [
   {
    "brand": "Sony",
@@ -122,23 +122,6 @@
   },
   {
    "brand": "Sony",
-   "model": "K75XR90",
-   "size": 75,
-   "tech": "Mini-LED",
-   "series": "BRAVIA 9 Mini LED",
-   "bb": 3398.0,
-   "ours": 3198.0,
-   "img": "K65XR90",
-   "details": [
-    "BRAVIA 9: Sony's brightest 4K TV",
-    "Thousands of Mini LEDs with XR Backlight Master Drive",
-    "XR Contrast Booster 30 and QLED color with XR Triluminos Pro",
-    "X-Wide Angle and X-Anti Reflection for bright rooms",
-    "Google TV, AirPlay 2 and HDMI 2.1 gaming"
-   ]
-  },
-  {
-   "brand": "Sony",
    "model": "K77XR80",
    "size": 77,
    "tech": "OLED",
@@ -210,8 +193,8 @@
    "size": 85,
    "tech": "Mini-LED",
    "series": "BRAVIA 5 Mini LED (2025)",
-   "bb": 2398,
-   "ours": 2348,
+   "bb": 2399.99,
+   "ours": 2349.99,
    "img": "K98XR50",
    "details": [
     "BRAVIA 5 Mini LED with XR Backlight Master Drive",
@@ -306,6 +289,24 @@
     "Motion Xcelerator 165Hz",
     "Dolby Atmos with Object Tracking Sound+",
     "Samsung Vision AI with One UI Tizen"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "65QM7K",
+   "size": 65,
+   "tech": "Mini-LED",
+   "series": "QM7K QD-Mini LED",
+   "bb": 949.99,
+   "ours": 924.99,
+   "img": "115QM7K",
+   "details": [
+    "QD-Mini LED with up to 2,500 dimming zones (size-dependent)",
+    "Up to HDR 3000 brightness",
+    "144Hz native refresh, Game Accelerator 288 and FreeSync Premium Pro",
+    "Dolby Vision IQ, HDR10+ and IMAX Enhanced",
+    "Onkyo 4.2.2 speakers with Dolby Atmos",
+    "Google TV, Chromecast built-in and AirPlay 2"
    ]
   },
   {
@@ -708,6 +709,230 @@
   },
   {
    "brand": "Samsung",
+   "model": "QN55QN80HA",
+   "size": 55,
+   "tech": "Mini-LED",
+   "series": "QN80H Neo QLED (2026)",
+   "bb": 899.99,
+   "ours": 899.99,
+   "img": "QN75QN80HAFXZA_006_Front2_Titan-Black_1600x1200",
+   "details": [
+    "Neo QLED with Quantum Mini LED full-array backlight",
+    "Quantum Dot color that stays bold in bright scenes",
+    "NQ4 AI Gen2 processor with 4K upscaling",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN55S85HA",
+   "size": 55,
+   "tech": "OLED",
+   "series": "S85H OLED (2026)",
+   "bb": 1099.99,
+   "ours": 1074.99,
+   "img": "QN65S85HAEXZA_006_Front2_Graphite_Black",
+   "details": [
+    "Samsung OLED with self-lit pixels for deep contrast",
+    "NQ4 AI Gen2 processor",
+    "Premium Gaming Pack",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN55S90HA",
+   "size": 55,
+   "tech": "OLED",
+   "series": "S90H OLED (2026)",
+   "bb": 1299.99,
+   "ours": 1249.99,
+   "img": "QN42S90HAEXZA_006_Front2_Graphite_Black",
+   "details": [
+    "Samsung OLED with Glare Free technology",
+    "NQ4 AI Gen3 processor with 128 neural networks",
+    "Ultimate Gaming Pack for smooth, low-lag play",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN65QN70HA",
+   "size": 65,
+   "tech": "Mini-LED",
+   "series": "QN70H Neo QLED (2026)",
+   "bb": 899.99,
+   "ours": 874.99,
+   "img": "QN75QN70HAFXZA_006_Front2_Black",
+   "details": [
+    "Neo QLED with Quantum Mini LED",
+    "100% Color Volume with Quantum Dot",
+    "AI processing for better picture and sound",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN65QN80HA",
+   "size": 65,
+   "tech": "Mini-LED",
+   "series": "QN80H Neo QLED (2026)",
+   "bb": 999.99,
+   "ours": 974.99,
+   "img": "QN75QN80HAFXZA_006_Front2_Titan-Black_1600x1200",
+   "details": [
+    "Neo QLED with Quantum Mini LED full-array backlight",
+    "Quantum Dot color that stays bold in bright scenes",
+    "NQ4 AI Gen2 processor with 4K upscaling",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN65S85HA",
+   "size": 65,
+   "tech": "OLED",
+   "series": "S85H OLED (2026)",
+   "bb": 1299.99,
+   "ours": 1249.99,
+   "img": "QN65S85HAEXZA_006_Front2_Graphite_Black",
+   "details": [
+    "Samsung OLED with self-lit pixels for deep contrast",
+    "NQ4 AI Gen2 processor",
+    "Premium Gaming Pack",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN65S90HA",
+   "size": 65,
+   "tech": "OLED",
+   "series": "S90H OLED (2026)",
+   "bb": 1499.99,
+   "ours": 1449.99,
+   "img": "QN42S90HAEXZA_006_Front2_Graphite_Black",
+   "details": [
+    "Samsung OLED with Glare Free technology",
+    "NQ4 AI Gen3 processor with 128 neural networks",
+    "Ultimate Gaming Pack for smooth, low-lag play",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN75QN70HA",
+   "size": 75,
+   "tech": "Mini-LED",
+   "series": "QN70H Neo QLED (2026)",
+   "bb": 1099.99,
+   "ours": 1074.99,
+   "img": "QN75QN70HAFXZA_006_Front2_Black",
+   "details": [
+    "Neo QLED with Quantum Mini LED",
+    "100% Color Volume with Quantum Dot",
+    "AI processing for better picture and sound",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN75QN80HA",
+   "size": 75,
+   "tech": "Mini-LED",
+   "series": "QN80H Neo QLED (2026)",
+   "bb": 1599.99,
+   "ours": 1499.99,
+   "img": "QN75QN80HAFXZA_006_Front2_Titan-Black_1600x1200",
+   "details": [
+    "Neo QLED with Quantum Mini LED full-array backlight",
+    "Quantum Dot color that stays bold in bright scenes",
+    "NQ4 AI Gen2 processor with 4K upscaling",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN77S85HA",
+   "size": 77,
+   "tech": "OLED",
+   "series": "S85H OLED (2026)",
+   "bb": 1999.99,
+   "ours": 1899.99,
+   "img": "QN65S85HAEXZA_006_Front2_Graphite_Black",
+   "details": [
+    "Samsung OLED with self-lit pixels for deep contrast",
+    "NQ4 AI Gen2 processor",
+    "Premium Gaming Pack",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN77S90HA",
+   "size": 77,
+   "tech": "OLED",
+   "series": "S90H OLED (2026)",
+   "bb": 2499.99,
+   "ours": 2299.99,
+   "img": "QN42S90HAEXZA_006_Front2_Graphite_Black",
+   "details": [
+    "Samsung OLED with Glare Free technology",
+    "NQ4 AI Gen3 processor with 128 neural networks",
+    "Ultimate Gaming Pack for smooth, low-lag play",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN83S85HA",
+   "size": 83,
+   "tech": "OLED",
+   "series": "S85H OLED (2026)",
+   "bb": 2999.99,
+   "ours": 2799.99,
+   "img": "QN65S85HAEXZA_006_Front2_Graphite_Black",
+   "details": [
+    "Samsung OLED with self-lit pixels for deep contrast",
+    "NQ4 AI Gen2 processor",
+    "Premium Gaming Pack",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN83S90HA",
+   "size": 83,
+   "tech": "OLED",
+   "series": "S90H OLED (2026)",
+   "bb": 3499.99,
+   "ours": 3299.99,
+   "img": "QN42S90HAEXZA_006_Front2_Graphite_Black",
+   "details": [
+    "Samsung OLED with Glare Free technology",
+    "NQ4 AI Gen3 processor with 128 neural networks",
+    "Ultimate Gaming Pack for smooth, low-lag play",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN85QN70HA",
+   "size": 85,
+   "tech": "Mini-LED",
+   "series": "QN70H Neo QLED (2026)",
+   "bb": 1597.99,
+   "ours": 1572.99,
+   "img": "QN75QN70HAFXZA_006_Front2_Black",
+   "details": [
+    "Neo QLED with Quantum Mini LED",
+    "100% Color Volume with Quantum Dot",
+    "AI processing for better picture and sound",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
    "model": "QN85QN80HA",
    "size": 85,
    "tech": "Mini-LED",
@@ -720,6 +945,328 @@
     "Quantum Dot color that stays bold in bright scenes",
     "NQ4 AI Gen2 processor with 4K upscaling",
     "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "55QM6K",
+   "size": 55,
+   "tech": "Mini-LED",
+   "series": "QM6K QD-Mini LED",
+   "bb": 549.99,
+   "ours": 549.99,
+   "details": [
+    "QD-Mini LED with full-array local dimming",
+    "4K HDR with Dolby Vision and HDR10+",
+    "High refresh rate for smooth sports and gaming",
+    "Dolby Atmos audio",
+    "Google TV with Chromecast built-in and AirPlay"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "75QM6K",
+   "size": 75,
+   "tech": "Mini-LED",
+   "series": "QM6K QD-Mini LED",
+   "bb": 1287.99,
+   "ours": 1187.99,
+   "details": [
+    "QD-Mini LED with full-array local dimming",
+    "4K HDR with Dolby Vision and HDR10+",
+    "High refresh rate for smooth sports and gaming",
+    "Dolby Atmos audio",
+    "Google TV with Chromecast built-in and AirPlay"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "55QM7L",
+   "size": 55,
+   "tech": "Mini-LED",
+   "series": "QM7L SQD-Mini LED (2026)",
+   "bb": 1199.99,
+   "ours": 999.99,
+   "details": [
+    "TCL SQD-Mini LED (2026) with precise local dimming",
+    "Bright 4K HDR with Dolby Vision IQ and HDR10+",
+    "High refresh rate gaming with VRR",
+    "Dolby Atmos audio",
+    "Google TV with hands-free voice"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "65QM7L",
+   "size": 65,
+   "tech": "Mini-LED",
+   "series": "QM7L SQD-Mini LED (2026)",
+   "bb": 1499.99,
+   "ours": 1299.99,
+   "details": [
+    "TCL SQD-Mini LED (2026) with precise local dimming",
+    "Bright 4K HDR with Dolby Vision IQ and HDR10+",
+    "High refresh rate gaming with VRR",
+    "Dolby Atmos audio",
+    "Google TV with hands-free voice"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "75QM7L",
+   "size": 75,
+   "tech": "Mini-LED",
+   "series": "QM7L SQD-Mini LED (2026)",
+   "bb": 1999.99,
+   "ours": 1799.99,
+   "details": [
+    "TCL SQD-Mini LED (2026) with precise local dimming",
+    "Bright 4K HDR with Dolby Vision IQ and HDR10+",
+    "High refresh rate gaming with VRR",
+    "Dolby Atmos audio",
+    "Google TV with hands-free voice"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "85QM7L",
+   "size": 85,
+   "tech": "Mini-LED",
+   "series": "QM7L SQD-Mini LED (2026)",
+   "bb": 2499.99,
+   "ours": 2299.99,
+   "details": [
+    "TCL SQD-Mini LED (2026) with precise local dimming",
+    "Bright 4K HDR with Dolby Vision IQ and HDR10+",
+    "High refresh rate gaming with VRR",
+    "Dolby Atmos audio",
+    "Google TV with hands-free voice"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "98QM7L",
+   "size": 98,
+   "tech": "Mini-LED",
+   "series": "QM7L SQD-Mini LED (2026)",
+   "bb": 3999.99,
+   "ours": 3799.99,
+   "details": [
+    "TCL SQD-Mini LED (2026) with precise local dimming",
+    "Bright 4K HDR with Dolby Vision IQ and HDR10+",
+    "High refresh rate gaming with VRR",
+    "Dolby Atmos audio",
+    "Google TV with hands-free voice"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "UN100M90H",
+   "size": 100,
+   "tech": "Mini-LED",
+   "series": "M90H Mini LED",
+   "bb": 2299.99,
+   "ours": 2274.99,
+   "details": [
+    "Big-screen 4K Mini LED",
+    "Samsung Vision AI with Tizen",
+    "4K AI upscaling",
+    "Samsung TV Plus free channels"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "UN75M80HA",
+   "size": 75,
+   "tech": "Mini-LED",
+   "series": "M80H Mini LED (2026)",
+   "bb": 799.99,
+   "ours": 799.99,
+   "details": [
+    "4K Mini LED with brighter, deeper picture",
+    "Samsung Vision AI with Tizen",
+    "4K AI upscaling",
+    "Samsung TV Plus free channels"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "UN85M80HA",
+   "size": 85,
+   "tech": "Mini-LED",
+   "series": "M80H Mini LED (2026)",
+   "bb": 1199.99,
+   "ours": 1199.99,
+   "details": [
+    "4K Mini LED with brighter, deeper picture",
+    "Samsung Vision AI with Tizen",
+    "4K AI upscaling",
+    "Samsung TV Plus free channels"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K55XR30M2",
+   "size": 55,
+   "tech": "Mini-LED",
+   "series": "BRAVIA 3 II LED",
+   "bb": 799.99,
+   "ours": 799.99,
+   "details": [
+    "Sony 4K HDR LED (2026)",
+    "Google TV with Gemini",
+    "Dolby Vision and Dolby Atmos",
+    "Apple AirPlay and Chromecast built-in"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K98XR70M2",
+   "size": 98,
+   "tech": "RGB",
+   "series": "BRAVIA 7 II True RGB",
+   "bb": 8999.99,
+   "ours": 8799.99,
+   "details": [
+    "Sony True RGB: red, green and blue LEDs for vivid, accurate color",
+    "Deeper contrast with precise backlight control",
+    "Wide viewing angles",
+    "Google TV with Gemini"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K85XR30M2",
+   "size": 85,
+   "tech": "LED",
+   "series": "BRAVIA 3 II LED",
+   "bb": 1399.99,
+   "ours": 1374.99,
+   "details": [
+    "Sony 4K HDR LED (2026)",
+    "Google TV with Gemini",
+    "Dolby Vision and Dolby Atmos",
+    "Apple AirPlay and Chromecast built-in"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K75XR30M2",
+   "size": 75,
+   "tech": "LED",
+   "series": "BRAVIA 3 II LED",
+   "bb": 1199.99,
+   "ours": 1174.99,
+   "details": [
+    "Sony 4K HDR LED (2026)",
+    "Google TV with Gemini",
+    "Dolby Vision and Dolby Atmos",
+    "Apple AirPlay and Chromecast built-in"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K65XR30M2",
+   "size": 65,
+   "tech": "LED",
+   "series": "BRAVIA 3 II LED",
+   "bb": 899.99,
+   "ours": 899.99,
+   "details": [
+    "Sony 4K HDR LED (2026)",
+    "Google TV with Gemini",
+    "Dolby Vision and Dolby Atmos",
+    "Apple AirPlay and Chromecast built-in"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K50XR30M2",
+   "size": 50,
+   "tech": "LED",
+   "series": "BRAVIA 3 II LED",
+   "bb": 699.99,
+   "ours": 699.99,
+   "details": [
+    "Sony 4K HDR LED (2026)",
+    "Google TV with Gemini",
+    "Dolby Vision and Dolby Atmos",
+    "Apple AirPlay and Chromecast built-in"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K43XR30M2",
+   "size": 43,
+   "tech": "LED",
+   "series": "BRAVIA 3 II LED",
+   "bb": 599.99,
+   "ours": 599.99,
+   "details": [
+    "Sony 4K HDR LED (2026)",
+    "Google TV with Gemini",
+    "Dolby Vision and Dolby Atmos",
+    "Apple AirPlay and Chromecast built-in"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K115XR90M2",
+   "size": 115,
+   "tech": "RGB",
+   "series": "BRAVIA 9 II True RGB",
+   "bb": 30999.99,
+   "ours": 30799.99,
+   "details": [
+    "Sony's flagship True RGB TV",
+    "Red, green and blue LEDs for vivid, accurate color",
+    "Deep contrast with precise backlight control",
+    "Google TV with Gemini"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K100XR30M2",
+   "size": 100,
+   "tech": "LED",
+   "series": "BRAVIA 3 II LED",
+   "bb": 2599.99,
+   "ours": 2499.99,
+   "details": [
+    "Sony 4K HDR LED (2026)",
+    "Google TV with Gemini",
+    "Dolby Vision and Dolby Atmos",
+    "Apple AirPlay and Chromecast built-in"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "115RM9L",
+   "size": 115,
+   "tech": "RGB",
+   "series": "RGB Mini LED",
+   "bb": 19999.99,
+   "ours": 19899.99,
+   "details": [
+    "TCL RGB Mini LED flagship",
+    "Red, green and blue Mini LEDs for wider color",
+    "High brightness HDR with Dolby Vision",
+    "Google TV"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K75S20M2",
+   "size": 75,
+   "tech": "LED",
+   "series": "BRAVIA 2 II LED",
+   "bb": 899.99,
+   "ours": 899.99,
+   "details": [
+    "Sony 4K HDR LED",
+    "Google TV with Google Assistant",
+    "Apple AirPlay and Chromecast built-in",
+    "Great value for a 75\" screen"
    ]
   }
  ]
