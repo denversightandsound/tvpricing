@@ -311,6 +311,24 @@
   },
   {
    "brand": "TCL",
+   "model": "65QM8K",
+   "size": 65,
+   "tech": "Mini-LED",
+   "series": "QM8K QD-Mini LED",
+   "bb": 899.99,
+   "ours": 899.99,
+   "img": "98QM8K",
+   "details": [
+    "QD-Mini LED with up to 3,800 dimming zones",
+    "Up to HDR 5000 brightness",
+    "144Hz native refresh, Game Accelerator 288 and FreeSync Premium Pro",
+    "Dolby Vision IQ, HDR10+ and IMAX Enhanced",
+    "Audio by Bang & Olufsen with Dolby Atmos",
+    "Google TV with ATSC 3.0 NextGen TV tuner and Wi-Fi 6"
+   ]
+  },
+  {
+   "brand": "TCL",
    "model": "98QM8K",
    "size": 98,
    "tech": "Mini-LED",
@@ -948,6 +966,55 @@
    ]
   },
   {
+   "brand": "Samsung",
+   "model": "UN55M70HA",
+   "size": 55,
+   "tech": "Mini-LED",
+   "series": "M70H Mini LED (2026)",
+   "bb": 299.99,
+   "ours": 299.99,
+   "img": "M80H",
+   "details": [
+    "4K Mini LED backlight",
+    "Samsung Vision AI with Tizen",
+    "4K AI upscaling",
+    "Samsung TV Plus free channels"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "UN55M80HA",
+   "size": 55,
+   "tech": "Mini-LED",
+   "series": "M80H Mini LED (2026)",
+   "bb": 449.99,
+   "ours": 449.99,
+   "img": "M80H",
+   "details": [
+    "4K Mini LED with brighter, deeper picture",
+    "Samsung Vision AI with Tizen",
+    "4K AI upscaling",
+    "Samsung TV Plus free channels"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "50QM6K",
+   "size": 50,
+   "tech": "Mini-LED",
+   "series": "QM6K QD-Mini LED",
+   "bb": 499.99,
+   "ours": 499.99,
+   "img": "QM6K",
+   "details": [
+    "QD-Mini LED with full-array local dimming",
+    "4K HDR with Dolby Vision and HDR10+",
+    "High refresh rate for smooth sports and gaming",
+    "Dolby Atmos audio",
+    "Google TV with Chromecast built-in and AirPlay"
+   ]
+  },
+  {
    "brand": "TCL",
    "model": "55QM6K",
    "size": 55,
@@ -1084,6 +1151,86 @@
   },
   {
    "brand": "Samsung",
+   "model": "UN43M70HA",
+   "size": 43,
+   "tech": "Mini-LED",
+   "series": "M70H Mini LED (2026)",
+   "bb": 249.99,
+   "ours": 249.99,
+   "img": "M80H",
+   "details": [
+    "4K Mini LED backlight",
+    "Samsung Vision AI with Tizen",
+    "4K AI upscaling",
+    "Samsung TV Plus free channels"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "UN50M70HA",
+   "size": 50,
+   "tech": "Mini-LED",
+   "series": "M70H Mini LED (2026)",
+   "bb": 279.99,
+   "ours": 279.99,
+   "img": "M80H",
+   "details": [
+    "4K Mini LED backlight",
+    "Samsung Vision AI with Tizen",
+    "4K AI upscaling",
+    "Samsung TV Plus free channels"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "UN65M70HA",
+   "size": 65,
+   "tech": "Mini-LED",
+   "series": "M70H Mini LED (2026)",
+   "bb": 429.99,
+   "ours": 429.99,
+   "img": "M80H",
+   "details": [
+    "4K Mini LED backlight",
+    "Samsung Vision AI with Tizen",
+    "4K AI upscaling",
+    "Samsung TV Plus free channels"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "UN65M80HA",
+   "size": 65,
+   "tech": "Mini-LED",
+   "series": "M80H Mini LED (2026)",
+   "bb": 549.99,
+   "ours": 549.99,
+   "img": "M80H",
+   "details": [
+    "4K Mini LED with brighter, deeper picture",
+    "Samsung Vision AI with Tizen",
+    "4K AI upscaling",
+    "Samsung TV Plus free channels"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "UN75M70HA",
+   "size": 75,
+   "tech": "Mini-LED",
+   "series": "M70H Mini LED (2026)",
+   "bb": 549.99,
+   "ours": 549.99,
+   "img": "M80H",
+   "details": [
+    "4K Mini LED backlight",
+    "Samsung Vision AI with Tizen",
+    "4K AI upscaling",
+    "Samsung TV Plus free channels"
+   ]
+  },
+  {
+   "brand": "Samsung",
    "model": "UN75M80HA",
    "size": 75,
    "tech": "Mini-LED",
@@ -1112,6 +1259,22 @@
     "Samsung Vision AI with Tizen",
     "4K AI upscaling",
     "Samsung TV Plus free channels"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K55XR70M2",
+   "size": 55,
+   "tech": "RGB",
+   "series": "BRAVIA 7 II True RGB",
+   "bb": 1699.99,
+   "ours": 1699.99,
+   "img": "BRAVIA7II",
+   "details": [
+    "Sony True RGB: red, green and blue LEDs for vivid, accurate color",
+    "Deeper contrast with precise backlight control",
+    "Wide viewing angles",
+    "Google TV with Gemini"
    ]
   },
   {
