@@ -955,6 +955,7 @@
    "series": "QM6K QD-Mini LED",
    "bb": 549.99,
    "ours": 549.99,
+   "img": "QM6K",
    "details": [
     "QD-Mini LED with full-array local dimming",
     "4K HDR with Dolby Vision and HDR10+",
@@ -971,6 +972,7 @@
    "series": "QM6K QD-Mini LED",
    "bb": 1287.99,
    "ours": 1187.99,
+   "img": "QM6K",
    "details": [
     "QD-Mini LED with full-array local dimming",
     "4K HDR with Dolby Vision and HDR10+",
@@ -987,6 +989,7 @@
    "series": "QM7L SQD-Mini LED (2026)",
    "bb": 1199.99,
    "ours": 999.99,
+   "img": "QM7L",
    "details": [
     "TCL SQD-Mini LED (2026) with precise local dimming",
     "Bright 4K HDR with Dolby Vision IQ and HDR10+",
@@ -1003,6 +1006,7 @@
    "series": "QM7L SQD-Mini LED (2026)",
    "bb": 1499.99,
    "ours": 1299.99,
+   "img": "QM7L",
    "details": [
     "TCL SQD-Mini LED (2026) with precise local dimming",
     "Bright 4K HDR with Dolby Vision IQ and HDR10+",
@@ -1019,6 +1023,7 @@
    "series": "QM7L SQD-Mini LED (2026)",
    "bb": 1999.99,
    "ours": 1799.99,
+   "img": "QM7L",
    "details": [
     "TCL SQD-Mini LED (2026) with precise local dimming",
     "Bright 4K HDR with Dolby Vision IQ and HDR10+",
@@ -1035,6 +1040,7 @@
    "series": "QM7L SQD-Mini LED (2026)",
    "bb": 2499.99,
    "ours": 2299.99,
+   "img": "QM7L",
    "details": [
     "TCL SQD-Mini LED (2026) with precise local dimming",
     "Bright 4K HDR with Dolby Vision IQ and HDR10+",
@@ -1051,6 +1057,7 @@
    "series": "QM7L SQD-Mini LED (2026)",
    "bb": 3999.99,
    "ours": 3799.99,
+   "img": "QM7L",
    "details": [
     "TCL SQD-Mini LED (2026) with precise local dimming",
     "Bright 4K HDR with Dolby Vision IQ and HDR10+",
@@ -1067,6 +1074,7 @@
    "series": "M90H Mini LED",
    "bb": 2299.99,
    "ours": 2274.99,
+   "img": "M80H",
    "details": [
     "Big-screen 4K Mini LED",
     "Samsung Vision AI with Tizen",
@@ -1082,6 +1090,7 @@
    "series": "M80H Mini LED (2026)",
    "bb": 799.99,
    "ours": 799.99,
+   "img": "M80H",
    "details": [
     "4K Mini LED with brighter, deeper picture",
     "Samsung Vision AI with Tizen",
@@ -1097,6 +1106,7 @@
    "series": "M80H Mini LED (2026)",
    "bb": 1199.99,
    "ours": 1199.99,
+   "img": "M80H",
    "details": [
     "4K Mini LED with brighter, deeper picture",
     "Samsung Vision AI with Tizen",
@@ -1112,6 +1122,7 @@
    "series": "BRAVIA 3 II LED",
    "bb": 799.99,
    "ours": 799.99,
+   "img": "BRAVIA3II",
    "details": [
     "Sony 4K HDR LED (2026)",
     "Google TV with Gemini",
@@ -1127,6 +1138,7 @@
    "series": "BRAVIA 7 II True RGB",
    "bb": 8999.99,
    "ours": 8799.99,
+   "img": "BRAVIA7II",
    "details": [
     "Sony True RGB: red, green and blue LEDs for vivid, accurate color",
     "Deeper contrast with precise backlight control",
@@ -1142,6 +1154,7 @@
    "series": "BRAVIA 3 II LED",
    "bb": 1399.99,
    "ours": 1374.99,
+   "img": "BRAVIA3II",
    "details": [
     "Sony 4K HDR LED (2026)",
     "Google TV with Gemini",
@@ -1157,6 +1170,7 @@
    "series": "BRAVIA 3 II LED",
    "bb": 1199.99,
    "ours": 1174.99,
+   "img": "BRAVIA3II",
    "details": [
     "Sony 4K HDR LED (2026)",
     "Google TV with Gemini",
@@ -1172,6 +1186,7 @@
    "series": "BRAVIA 3 II LED",
    "bb": 899.99,
    "ours": 899.99,
+   "img": "BRAVIA3II",
    "details": [
     "Sony 4K HDR LED (2026)",
     "Google TV with Gemini",
@@ -1187,6 +1202,7 @@
    "series": "BRAVIA 3 II LED",
    "bb": 699.99,
    "ours": 699.99,
+   "img": "BRAVIA3II",
    "details": [
     "Sony 4K HDR LED (2026)",
     "Google TV with Gemini",
@@ -1202,6 +1218,7 @@
    "series": "BRAVIA 3 II LED",
    "bb": 599.99,
    "ours": 599.99,
+   "img": "BRAVIA3II",
    "details": [
     "Sony 4K HDR LED (2026)",
     "Google TV with Gemini",
@@ -1217,6 +1234,7 @@
    "series": "BRAVIA 9 II True RGB",
    "bb": 30999.99,
    "ours": 30799.99,
+   "img": "BRAVIA9II",
    "details": [
     "Sony's flagship True RGB TV",
     "Red, green and blue LEDs for vivid, accurate color",
@@ -1232,6 +1250,7 @@
    "series": "BRAVIA 3 II LED",
    "bb": 2599.99,
    "ours": 2499.99,
+   "img": "BRAVIA3II",
    "details": [
     "Sony 4K HDR LED (2026)",
     "Google TV with Gemini",
@@ -1247,6 +1266,7 @@
    "series": "RGB Mini LED",
    "bb": 19999.99,
    "ours": 19899.99,
+   "img": "RM9L",
    "details": [
     "TCL RGB Mini LED flagship",
     "Red, green and blue Mini LEDs for wider color",
@@ -1262,6 +1282,7 @@
    "series": "BRAVIA 2 II LED",
    "bb": 899.99,
    "ours": 899.99,
+   "img": "BRAVIA2II",
    "details": [
     "Sony 4K HDR LED",
     "Google TV with Google Assistant",
