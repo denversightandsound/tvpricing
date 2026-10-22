@@ -1295,12 +1295,97 @@
   },
   {
    "brand": "Sony",
+   "model": "K98XR70PRO",
+   "size": 98,
+   "tech": "RGB",
+   "series": "BRAVIA 7 II PRO True RGB (3-yr warranty)",
+   "bb": 9399.99,
+   "ours": 9199.99,
+   "src": "Crutchfield",
+   "img": "BRAVIA7II",
+   "details": [
+    "Sony True RGB: red, green and blue LEDs for vivid, accurate color",
+    "Deeper contrast with precise backlight control",
+    "Wide viewing angles",
+    "Google TV with Gemini"
+   ]
+  },
+  {
+   "brand": "Sony",
    "model": "K98XR70M2",
    "size": 98,
    "tech": "RGB",
    "series": "BRAVIA 7 II True RGB",
    "bb": 8999.99,
    "ours": 8799.99,
+   "img": "BRAVIA7II",
+   "details": [
+    "Sony True RGB: red, green and blue LEDs for vivid, accurate color",
+    "Deeper contrast with precise backlight control",
+    "Wide viewing angles",
+    "Google TV with Gemini"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K85XR90PRO",
+   "size": 85,
+   "tech": "RGB",
+   "series": "BRAVIA 9 II PRO True RGB (3-yr warranty)",
+   "bb": 6849.99,
+   "ours": 6649.99,
+   "src": "Crutchfield",
+   "img": "BRAVIA9II",
+   "details": [
+    "Sony's flagship True RGB TV",
+    "Red, green and blue LEDs for vivid, accurate color",
+    "Deep contrast with precise backlight control",
+    "Google TV with Gemini"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K85XR90M2",
+   "size": 85,
+   "tech": "RGB",
+   "series": "BRAVIA 9 II True RGB",
+   "bb": 6499.99,
+   "ours": 6299.99,
+   "src": "Crutchfield",
+   "img": "BRAVIA9II",
+   "details": [
+    "Sony's flagship True RGB TV",
+    "Red, green and blue LEDs for vivid, accurate color",
+    "Deep contrast with precise backlight control",
+    "Google TV with Gemini"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K85XR70PRO",
+   "size": 85,
+   "tech": "RGB",
+   "series": "BRAVIA 7 II PRO True RGB (3-yr warranty)",
+   "bb": 4299.99,
+   "ours": 4099.99,
+   "src": "Crutchfield",
+   "img": "BRAVIA7II",
+   "details": [
+    "Sony True RGB: red, green and blue LEDs for vivid, accurate color",
+    "Deeper contrast with precise backlight control",
+    "Wide viewing angles",
+    "Google TV with Gemini"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K85XR70M2",
+   "size": 85,
+   "tech": "RGB",
+   "series": "BRAVIA 7 II True RGB",
+   "bb": 3999.99,
+   "ours": 3799.99,
+   "src": "Crutchfield",
    "img": "BRAVIA7II",
    "details": [
     "Sony True RGB: red, green and blue LEDs for vivid, accurate color",
@@ -1327,6 +1412,74 @@
   },
   {
    "brand": "Sony",
+   "model": "K75XR90PRO",
+   "size": 75,
+   "tech": "RGB",
+   "series": "BRAVIA 9 II PRO True RGB (3-yr warranty)",
+   "bb": 4899.99,
+   "ours": 4699.99,
+   "src": "Crutchfield",
+   "img": "BRAVIA9II",
+   "details": [
+    "Sony's flagship True RGB TV",
+    "Red, green and blue LEDs for vivid, accurate color",
+    "Deep contrast with precise backlight control",
+    "Google TV with Gemini"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K75XR90M2",
+   "size": 75,
+   "tech": "RGB",
+   "series": "BRAVIA 9 II True RGB",
+   "bb": 4599.99,
+   "ours": 4399.99,
+   "src": "Crutchfield",
+   "img": "BRAVIA9II",
+   "details": [
+    "Sony's flagship True RGB TV",
+    "Red, green and blue LEDs for vivid, accurate color",
+    "Deep contrast with precise backlight control",
+    "Google TV with Gemini"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K75XR70PRO",
+   "size": 75,
+   "tech": "RGB",
+   "series": "BRAVIA 7 II PRO True RGB (3-yr warranty)",
+   "bb": 2549.99,
+   "ours": 2549.99,
+   "src": "Crutchfield",
+   "img": "BRAVIA7II",
+   "details": [
+    "Sony True RGB: red, green and blue LEDs for vivid, accurate color",
+    "Deeper contrast with precise backlight control",
+    "Wide viewing angles",
+    "Google TV with Gemini"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K75XR70M2",
+   "size": 75,
+   "tech": "RGB",
+   "series": "BRAVIA 7 II True RGB",
+   "bb": 2299.99,
+   "ours": 2299.99,
+   "src": "Crutchfield",
+   "img": "BRAVIA7II",
+   "details": [
+    "Sony True RGB: red, green and blue LEDs for vivid, accurate color",
+    "Deeper contrast with precise backlight control",
+    "Wide viewing angles",
+    "Google TV with Gemini"
+   ]
+  },
+  {
+   "brand": "Sony",
    "model": "K75XR30M2",
    "size": 75,
    "tech": "LED",
@@ -1343,6 +1496,74 @@
   },
   {
    "brand": "Sony",
+   "model": "K65XR90PRO",
+   "size": 65,
+   "tech": "RGB",
+   "series": "BRAVIA 9 II PRO True RGB (3-yr warranty)",
+   "bb": 3849.99,
+   "ours": 3649.99,
+   "src": "Crutchfield",
+   "img": "BRAVIA9II",
+   "details": [
+    "Sony's flagship True RGB TV",
+    "Red, green and blue LEDs for vivid, accurate color",
+    "Deep contrast with precise backlight control",
+    "Google TV with Gemini"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K65XR90M2",
+   "size": 65,
+   "tech": "RGB",
+   "series": "BRAVIA 9 II True RGB",
+   "bb": 3599.99,
+   "ours": 3399.99,
+   "src": "Crutchfield",
+   "img": "BRAVIA9II",
+   "details": [
+    "Sony's flagship True RGB TV",
+    "Red, green and blue LEDs for vivid, accurate color",
+    "Deep contrast with precise backlight control",
+    "Google TV with Gemini"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K65XR70PRO",
+   "size": 65,
+   "tech": "RGB",
+   "series": "BRAVIA 7 II PRO True RGB (3-yr warranty)",
+   "bb": 1999.99,
+   "ours": 1999.99,
+   "src": "Crutchfield",
+   "img": "BRAVIA7II",
+   "details": [
+    "Sony True RGB: red, green and blue LEDs for vivid, accurate color",
+    "Deeper contrast with precise backlight control",
+    "Wide viewing angles",
+    "Google TV with Gemini"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K65XR70M2",
+   "size": 65,
+   "tech": "RGB",
+   "series": "BRAVIA 7 II True RGB",
+   "bb": 1799.99,
+   "ours": 1799.99,
+   "src": "Crutchfield",
+   "img": "BRAVIA7II",
+   "details": [
+    "Sony True RGB: red, green and blue LEDs for vivid, accurate color",
+    "Deeper contrast with precise backlight control",
+    "Wide viewing angles",
+    "Google TV with Gemini"
+   ]
+  },
+  {
+   "brand": "Sony",
    "model": "K65XR30M2",
    "size": 65,
    "tech": "LED",
@@ -1355,6 +1576,23 @@
     "Google TV with Gemini",
     "Dolby Vision and Dolby Atmos",
     "Apple AirPlay and Chromecast built-in"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K50XR70M2",
+   "size": 50,
+   "tech": "RGB",
+   "series": "BRAVIA 7 II True RGB",
+   "bb": 1599.99,
+   "ours": 1574.99,
+   "src": "Crutchfield",
+   "img": "BRAVIA7II",
+   "details": [
+    "Sony True RGB: red, green and blue LEDs for vivid, accurate color",
+    "Deeper contrast with precise backlight control",
+    "Wide viewing angles",
+    "Google TV with Gemini"
    ]
   },
   {
@@ -1387,6 +1625,23 @@
     "Google TV with Gemini",
     "Dolby Vision and Dolby Atmos",
     "Apple AirPlay and Chromecast built-in"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K115XR9PRO",
+   "size": 115,
+   "tech": "RGB",
+   "series": "BRAVIA 9 II PRO True RGB (3-yr warranty)",
+   "bb": 33999.99,
+   "ours": 33799.99,
+   "src": "Crutchfield",
+   "img": "BRAVIA9II",
+   "details": [
+    "Sony's flagship True RGB TV",
+    "Red, green and blue LEDs for vivid, accurate color",
+    "Deep contrast with precise backlight control",
+    "Google TV with Gemini"
    ]
   },
   {
@@ -1451,6 +1706,38 @@
     "Google TV with Google Assistant",
     "Apple AirPlay and Chromecast built-in",
     "Great value for a 75\" screen"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K55A60",
+   "size": 55,
+   "tech": "OLED",
+   "series": "A60 OLED (2026)",
+   "bb": 1099.99,
+   "ours": 1099.99,
+   "src": "Crutchfield",
+   "details": [
+    "Sony 4K OLED (2026) with self-lit pixels",
+    "Google TV with Gemini",
+    "Dolby Vision and Dolby Atmos",
+    "Apple AirPlay and Chromecast built-in"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K77A60",
+   "size": 77,
+   "tech": "OLED",
+   "series": "A60 OLED (2026)",
+   "bb": 1799.99,
+   "ours": 1799.99,
+   "src": "Crutchfield",
+   "details": [
+    "Sony 4K OLED (2026) with self-lit pixels",
+    "Google TV with Gemini",
+    "Dolby Vision and Dolby Atmos",
+    "Apple AirPlay and Chromecast built-in"
    ]
   }
  ]
