@@ -1858,14 +1858,127 @@
    ]
   },
   {
+   "brand": "Neptune (Peerless-AV)",
+   "model": "NT654",
+   "size": 65,
+   "tech": "Outdoor",
+   "series": "Full Sun outdoor smart TV",
+   "bb": 3799,
+   "ours": 3599,
+   "src": "Neptune MSRP",
+   "img": "NEPTUNE",
+   "details": [
+    "Neptune outdoor smart TV built for Colorado weather",
+    "Weatherproof design for patios and covered outdoor spaces",
+    "Bright 4K picture for outdoor viewing",
+    "Includes outdoor tilt wall mount"
+   ]
+  },
+  {
+   "brand": "Neptune (Peerless-AV)",
+   "model": "NT554",
+   "size": 55,
+   "tech": "Outdoor",
+   "series": "Full Sun outdoor smart TV",
+   "bb": 3099,
+   "ours": 2899,
+   "src": "Neptune MSRP",
+   "img": "NEPTUNE",
+   "details": [
+    "Neptune outdoor smart TV built for Colorado weather",
+    "Weatherproof design for patios and covered outdoor spaces",
+    "Bright 4K picture for outdoor viewing",
+    "Includes outdoor tilt wall mount"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN75LST9DA",
+   "size": 75,
+   "tech": "Outdoor",
+   "series": "The Terrace Full Sun outdoor Neo QLED (LST9D)",
+   "bb": 9999.99,
+   "ours": 9799.99,
+   "img": "QN85LST9CA",
+   "details": [
+    "Outdoor TV for full direct sun",
+    "Neo QLED 4K with brightness that adjusts to outdoor light",
+    "IP56 rated against water and dust",
+    "Built for patios, pools and backyards year-round"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN75LST7DA",
+   "size": 75,
+   "tech": "Outdoor",
+   "series": "The Terrace Partial Sun outdoor Neo QLED",
+   "bb": 6499.99,
+   "ours": 6299.99,
+   "img": "QN85LST7CA",
+   "details": [
+    "Outdoor TV for shaded or partly shaded spaces",
+    "Neo QLED 4K picture tuned for outdoor viewing",
+    "IP56 rated against water and dust",
+    "Best under a covered patio or pergola, out of direct sun"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN65LST9DA",
+   "size": 65,
+   "tech": "Outdoor",
+   "series": "The Terrace Full Sun outdoor Neo QLED (LST9D)",
+   "bb": 7499.99,
+   "ours": 7299.99,
+   "img": "QN85LST9CA",
+   "details": [
+    "Outdoor TV for full direct sun",
+    "Neo QLED 4K with brightness that adjusts to outdoor light",
+    "IP56 rated against water and dust",
+    "Built for patios, pools and backyards year-round"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN65LST7DA",
+   "size": 65,
+   "tech": "Outdoor",
+   "series": "The Terrace Partial Sun outdoor Neo QLED (LST7D)",
+   "bb": 4999.99,
+   "ours": 4799.99,
+   "img": "QN85LST7CA",
+   "details": [
+    "Outdoor TV for shaded or partly shaded spaces",
+    "Neo QLED 4K picture tuned for outdoor viewing",
+    "IP56 rated against water and dust",
+    "Best under a covered patio or pergola, out of direct sun"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN55LST7DA",
+   "size": 55,
+   "tech": "Outdoor",
+   "series": "The Terrace Partial Sun outdoor Neo QLED (LST7D)",
+   "bb": 3499.99,
+   "ours": 3299.99,
+   "img": "QN85LST7CA",
+   "details": [
+    "Outdoor TV for shaded or partly shaded spaces",
+    "Neo QLED 4K picture tuned for outdoor viewing",
+    "IP56 rated against water and dust",
+    "Best under a covered patio or pergola, out of direct sun"
+   ]
+  },
+  {
    "brand": "Sony",
    "model": "K65XR80M2",
    "size": 65,
    "tech": "OLED",
    "series": "BRAVIA 8 II QD-OLED",
-   "bb": 2798,
-   "ours": 2698,
-   "src": "Crutchfield",
+   "bb": 2799.99,
+   "ours": 2699.99,
    "img": "XR80M2",
    "details": [
     "Sony BRAVIA 8 II QD-OLED",
@@ -1881,9 +1994,8 @@
    "size": 55,
    "tech": "OLED",
    "series": "BRAVIA 8 II QD-OLED (2025)",
-   "bb": 2298,
-   "ours": 2198,
-   "src": "Crutchfield",
+   "bb": 2299.99,
+   "ours": 2199.99,
    "img": "XR80M2",
    "details": [
     "Sony BRAVIA 8 II QD-OLED",
@@ -1891,6 +2003,288 @@
     "XR Processor with AI picture enhancement",
     "Google TV with Google Assistant and AirPlay 2",
     "Acoustic Surface Audio+: sound from the screen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "MRN55R85HA",
+   "size": 55,
+   "tech": "RGB",
+   "series": "Micro RGB (2026)",
+   "bb": 1099.99,
+   "ours": 1049.99,
+   "img": "MRN115MR95F",
+   "details": [
+    "Samsung Micro RGB: separate red, green and blue micro LEDs light the screen",
+    "Very wide color range with precise local control",
+    "Samsung Vision AI processing",
+    "A 115\" flagship statement screen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "MRN65R85HA",
+   "size": 65,
+   "tech": "RGB",
+   "series": "Micro RGB (2026)",
+   "bb": 1599.99,
+   "ours": 1499.99,
+   "img": "MRN115MR95F",
+   "details": [
+    "Samsung Micro RGB: separate red, green and blue micro LEDs light the screen",
+    "Very wide color range with precise local control",
+    "Samsung Vision AI processing",
+    "A 115\" flagship statement screen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "MRN65R95HA",
+   "size": 65,
+   "tech": "RGB",
+   "series": "Micro RGB R95H (2026)",
+   "bb": 2799.99,
+   "ours": 2599.99,
+   "img": "MRN115MR95F",
+   "details": [
+    "Samsung Micro RGB: separate red, green and blue micro LEDs light the screen",
+    "Very wide color range with precise local control",
+    "Samsung Vision AI processing",
+    "A 115\" flagship statement screen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "MRN75R95HA",
+   "size": 75,
+   "tech": "RGB",
+   "series": "Micro RGB R95H (2026)",
+   "bb": 3799.99,
+   "ours": 3599.99,
+   "img": "MRN115MR95F",
+   "details": [
+    "Samsung Micro RGB: separate red, green and blue micro LEDs light the screen",
+    "Very wide color range with precise local control",
+    "Samsung Vision AI processing",
+    "A 115\" flagship statement screen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "MRN85R85HA",
+   "size": 85,
+   "tech": "RGB",
+   "series": "Micro RGB (MR85H)",
+   "bb": 2799.99,
+   "ours": 2599.99,
+   "img": "MRN115MR95F",
+   "details": [
+    "Samsung Micro RGB: separate red, green and blue micro LEDs light the screen",
+    "Very wide color range with precise local control",
+    "Samsung Vision AI processing",
+    "A 115\" flagship statement screen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "MRN85R95HA",
+   "size": 85,
+   "tech": "RGB",
+   "series": "Micro RGB R95H (2026)",
+   "bb": 5499.99,
+   "ours": 5299.99,
+   "img": "MRN115MR95F",
+   "details": [
+    "Samsung Micro RGB: separate red, green and blue micro LEDs light the screen",
+    "Very wide color range with precise local control",
+    "Samsung Vision AI processing",
+    "A 115\" flagship statement screen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "MRN100R85H",
+   "size": 100,
+   "tech": "RGB",
+   "series": "Micro RGB R85H (2026)",
+   "bb": 12999.99,
+   "ours": 12799.99,
+   "img": "MRN115MR95F",
+   "details": [
+    "Samsung Micro RGB: separate red, green and blue micro LEDs light the screen",
+    "Very wide color range with precise local control",
+    "Samsung Vision AI processing",
+    "A 115\" flagship statement screen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN55LS03HW",
+   "size": 55,
+   "tech": "Art",
+   "series": "The Frame Neo QLED, Art Mode (2026)",
+   "bb": 1099.99,
+   "ours": 1049.99,
+   "img": "LS03",
+   "details": [
+    "Samsung The Frame: looks like framed art when off",
+    "Art Mode with a rotating art collection",
+    "Anti-reflection matte display",
+    "Customizable bezels (sold separately)",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN55LS03HE",
+   "size": 55,
+   "tech": "Art",
+   "series": "The Frame",
+   "bb": 897.99,
+   "ours": 897.99,
+   "img": "LS03",
+   "details": [
+    "Samsung The Frame: looks like framed art when off",
+    "Art Mode with a rotating art collection",
+    "Anti-reflection matte display",
+    "Customizable bezels (sold separately)",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN55S95HA",
+   "size": 55,
+   "tech": "OLED",
+   "series": "S95H OLED (2026)",
+   "bb": 1999.99,
+   "ours": 1899.99,
+   "img": "S95H",
+   "details": [
+    "Samsung's flagship OLED (2026)",
+    "Glare Free matte screen for bright rooms",
+    "Very bright QD-OLED color",
+    "Samsung Vision AI with Tizen",
+    "Dolby Atmos with Object Tracking Sound"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN65LS03HE",
+   "size": 65,
+   "tech": "Art",
+   "series": "The Frame LS03HE (2026)",
+   "bb": 1199.99,
+   "ours": 1174.99,
+   "img": "LS03",
+   "details": [
+    "Samsung The Frame: looks like framed art when off",
+    "Art Mode with a rotating art collection",
+    "Anti-reflection matte display",
+    "Customizable bezels (sold separately)",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN65LS03HW",
+   "size": 65,
+   "tech": "Art",
+   "series": "The Frame Neo QLED, Art Mode (2026)",
+   "bb": 1599.99,
+   "ours": 1499.99,
+   "img": "LS03",
+   "details": [
+    "Samsung The Frame: looks like framed art when off",
+    "Art Mode with a rotating art collection",
+    "Anti-reflection matte display",
+    "Customizable bezels (sold separately)",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN65S95HA",
+   "size": 65,
+   "tech": "OLED",
+   "series": "S95H OLED (2026)",
+   "bb": 2499.99,
+   "ours": 2299.99,
+   "img": "S95H",
+   "details": [
+    "Samsung's flagship OLED (2026)",
+    "Glare Free matte screen for bright rooms",
+    "Very bright QD-OLED color",
+    "Samsung Vision AI with Tizen",
+    "Dolby Atmos with Object Tracking Sound"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN75LS03HE",
+   "size": 75,
+   "tech": "Art",
+   "series": "The Frame LS03HE (2026)",
+   "bb": 1599.99,
+   "ours": 1499.99,
+   "img": "LS03",
+   "details": [
+    "Samsung The Frame: looks like framed art when off",
+    "Art Mode with a rotating art collection",
+    "Anti-reflection matte display",
+    "Customizable bezels (sold separately)",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN75LS03HW",
+   "size": 75,
+   "tech": "Art",
+   "series": "The Frame Neo QLED, Art Mode (2026)",
+   "bb": 2199.99,
+   "ours": 1999.99,
+   "img": "LS03",
+   "details": [
+    "Samsung The Frame: looks like framed art when off",
+    "Art Mode with a rotating art collection",
+    "Anti-reflection matte display",
+    "Customizable bezels (sold separately)",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN77S95HA",
+   "size": 77,
+   "tech": "OLED",
+   "series": "S95H OLED (2026)",
+   "bb": 3699.99,
+   "ours": 3499.99,
+   "img": "S95H",
+   "details": [
+    "Samsung's flagship OLED (2026)",
+    "Glare Free matte screen for bright rooms",
+    "Very bright QD-OLED color",
+    "Samsung Vision AI with Tizen",
+    "Dolby Atmos with Object Tracking Sound"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN83S95HA",
+   "size": 83,
+   "tech": "OLED",
+   "series": "S95H OLED (2026)",
+   "bb": 5499.99,
+   "ours": 5299.99,
+   "img": "S95H",
+   "details": [
+    "Samsung's flagship OLED (2026)",
+    "Glare Free matte screen for bright rooms",
+    "Very bright QD-OLED color",
+    "Samsung Vision AI with Tizen",
+    "Dolby Atmos with Object Tracking Sound"
    ]
   },
   {
@@ -1911,6 +2305,57 @@
    ]
   },
   {
+   "brand": "Samsung",
+   "model": "QN85LS03HW",
+   "size": 85,
+   "tech": "Art",
+   "series": "The Frame Neo QLED, Art Mode (2026)",
+   "bb": 3299.99,
+   "ours": 3099.99,
+   "img": "LS03",
+   "details": [
+    "Samsung The Frame: looks like framed art when off",
+    "Art Mode with a rotating art collection",
+    "Anti-reflection matte display",
+    "Customizable bezels (sold separately)",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN98LS03HE",
+   "size": 98,
+   "tech": "Art",
+   "series": "The Frame LS03HE (2026)",
+   "bb": 3799.99,
+   "ours": 3599.99,
+   "img": "LS03",
+   "details": [
+    "Samsung The Frame: looks like framed art when off",
+    "Art Mode with a rotating art collection",
+    "Anti-reflection matte display",
+    "Customizable bezels (sold separately)",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "55A300L",
+   "size": 55,
+   "tech": "Art",
+   "series": "A300W NXTVISION QLED art TV (2024)",
+   "bb": 699.99,
+   "ours": 699.99,
+   "img": "A300",
+   "details": [
+    "TCL NXTVISION art TV with matte, low-glare screen",
+    "Flush wall mount for a picture-frame look",
+    "Art mode for displaying artwork",
+    "4K QLED color",
+    "Google TV"
+   ]
+  },
+  {
    "brand": "TCL",
    "model": "55A400U",
    "size": 55,
@@ -1924,6 +2369,57 @@
     "QD-Mini LED picture with anti-glare matte screen",
     "Built-in art library",
     "Flush wall mount for a framed-art look",
+    "Google TV"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "65A300L",
+   "size": 65,
+   "tech": "Art",
+   "series": "A300W NXTVISION QLED art TV (2024)",
+   "bb": 899.99,
+   "ours": 899.99,
+   "img": "A300",
+   "details": [
+    "TCL NXTVISION art TV with matte, low-glare screen",
+    "Flush wall mount for a picture-frame look",
+    "Art mode for displaying artwork",
+    "4K QLED color",
+    "Google TV"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "75A300L",
+   "size": 75,
+   "tech": "Art",
+   "series": "A300W NXTVISION QLED art TV (2024)",
+   "bb": 1299.99,
+   "ours": 1299.99,
+   "img": "A300",
+   "details": [
+    "TCL NXTVISION art TV with matte, low-glare screen",
+    "Flush wall mount for a picture-frame look",
+    "Art mode for displaying artwork",
+    "4K QLED color",
+    "Google TV"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "85A300L",
+   "size": 85,
+   "tech": "Art",
+   "series": "A300W NXTVISION QLED art TV (2024)",
+   "bb": 1999.99,
+   "ours": 1999.99,
+   "img": "A300",
+   "details": [
+    "TCL NXTVISION art TV with matte, low-glare screen",
+    "Flush wall mount for a picture-frame look",
+    "Art mode for displaying artwork",
+    "4K QLED color",
     "Google TV"
    ]
   },
@@ -1946,6 +2442,122 @@
   },
   {
    "brand": "Samsung",
+   "model": "QN43QN70HA",
+   "size": 43,
+   "tech": "Mini-LED",
+   "series": "QN70H Neo QLED (2026)",
+   "bb": 479.99,
+   "ours": 479.99,
+   "img": "QN75QN70HAFXZA_006_Front2_Black",
+   "details": [
+    "Neo QLED with Quantum Mini LED",
+    "100% Color Volume with Quantum Dot",
+    "AI processing for better picture and sound",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "65QM8L",
+   "size": 65,
+   "tech": "Mini-LED",
+   "series": "SQD-Mini LED",
+   "bb": 1199.99,
+   "ours": 1199.99,
+   "img": "98QM8K",
+   "details": [
+    "TCL SQD-Mini LED flagship-class picture (2026)",
+    "High-brightness HDR with precise local dimming",
+    "Dolby Vision IQ and HDR10+",
+    "High refresh rate gaming with VRR",
+    "Google TV"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "75QM8L",
+   "size": 75,
+   "tech": "Mini-LED",
+   "series": "SQD-Mini LED",
+   "bb": 1499.99,
+   "ours": 1499.99,
+   "img": "98QM8K",
+   "details": [
+    "TCL SQD-Mini LED flagship-class picture (2026)",
+    "High-brightness HDR with precise local dimming",
+    "Dolby Vision IQ and HDR10+",
+    "High refresh rate gaming with VRR",
+    "Google TV"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "85QM8L",
+   "size": 85,
+   "tech": "Mini-LED",
+   "series": "SQD-Mini LED",
+   "bb": 2499.99,
+   "ours": 2399.99,
+   "img": "98QM8K",
+   "details": [
+    "TCL SQD-Mini LED flagship-class picture (2026)",
+    "High-brightness HDR with precise local dimming",
+    "Dolby Vision IQ and HDR10+",
+    "High refresh rate gaming with VRR",
+    "Google TV"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "85RM9L",
+   "size": 85,
+   "tech": "RGB",
+   "series": "RGB Mini LED",
+   "bb": 5999.99,
+   "ours": 5799.99,
+   "img": "RM9L",
+   "details": [
+    "TCL RGB Mini LED flagship",
+    "Red, green and blue Mini LEDs for wider color",
+    "High brightness HDR with Dolby Vision",
+    "Google TV"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "98QM8L",
+   "size": 98,
+   "tech": "Mini-LED",
+   "series": "SQD-Mini LED",
+   "bb": 3499.9,
+   "ours": 3399.9,
+   "img": "98QM8K",
+   "details": [
+    "TCL SQD-Mini LED flagship-class picture (2026)",
+    "High-brightness HDR with precise local dimming",
+    "Dolby Vision IQ and HDR10+",
+    "High refresh rate gaming with VRR",
+    "Google TV"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "98RM9L",
+   "size": 98,
+   "tech": "RGB",
+   "series": "RGB Mini LED",
+   "bb": 5999.99,
+   "ours": 5974.99,
+   "img": "RM9L",
+   "details": [
+    "TCL RGB Mini LED flagship",
+    "Red, green and blue Mini LEDs for wider color",
+    "High brightness HDR with Dolby Vision",
+    "Google TV"
+   ]
+  },
+  {
+   "brand": "Samsung",
    "model": "UN85M70HA",
    "size": 85,
    "tech": "Mini-LED",
@@ -1958,6 +2570,22 @@
     "Samsung Vision AI with Tizen",
     "4K AI upscaling",
     "Samsung TV Plus free channels"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "MRN75R85HA",
+   "size": 75,
+   "tech": "RGB",
+   "series": "Micro RGB R85H (2026)",
+   "bb": 1799.99,
+   "ours": 1699.99,
+   "img": "MRN115MR95F",
+   "details": [
+    "Samsung Micro RGB: separate red, green and blue micro LEDs light the screen",
+    "Very wide color range with precise local control",
+    "Samsung Vision AI processing",
+    "A 115\" flagship statement screen"
    ]
   }
  ]
