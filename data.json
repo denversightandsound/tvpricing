@@ -733,7 +733,7 @@
    "tech": "Mini-LED",
    "series": "QN70H Neo QLED (2026)",
    "bb": 749.99,
-   "ours": 749.99,
+   "ours": 724.99,
    "img": "QN75QN70HAFXZA_006_Front2_Black",
    "details": [
     "Neo QLED with Quantum Mini LED",
@@ -1072,7 +1072,7 @@
    "tech": "Mini-LED",
    "series": "QM7L SQD-Mini LED (2026)",
    "bb": 1199.99,
-   "ours": 999.99,
+   "ours": 1099.99,
    "img": "QM7L",
    "details": [
     "TCL SQD-Mini LED (2026) with precise local dimming",
@@ -1089,7 +1089,7 @@
    "tech": "Mini-LED",
    "series": "QM7L SQD-Mini LED (2026)",
    "bb": 1499.99,
-   "ours": 1299.99,
+   "ours": 1399.99,
    "img": "QM7L",
    "details": [
     "TCL SQD-Mini LED (2026) with precise local dimming",
@@ -1552,7 +1552,7 @@
    "tech": "RGB",
    "series": "BRAVIA 7 II PRO True RGB (3-yr warranty)",
    "bb": 1999.99,
-   "ours": 1999.99,
+   "ours": 1949.99,
    "src": "Crutchfield",
    "img": "BRAVIA7II",
    "details": [
@@ -1569,7 +1569,7 @@
    "tech": "RGB",
    "series": "BRAVIA 7 II True RGB",
    "bb": 1799.99,
-   "ours": 1799.99,
+   "ours": 1774.99,
    "src": "Crutchfield",
    "img": "BRAVIA7II",
    "details": [
@@ -1765,7 +1765,7 @@
    "tech": "OLED",
    "series": "A60 OLED (2026)",
    "bb": 1299.99,
-   "ours": 1299.99,
+   "ours": 1274.99,
    "img": "A60",
    "details": [
     "Sony 4K OLED (2026) with self-lit pixels",
@@ -1781,7 +1781,7 @@
    "tech": "OLED",
    "series": "A60 OLED (2026)",
    "bb": 1799.99,
-   "ours": 1799.99,
+   "ours": 1749.99,
    "src": "Crutchfield",
    "img": "A60",
    "details": [
@@ -1798,7 +1798,7 @@
    "tech": "OLED",
    "series": "A60 OLED (2026)",
    "bb": 2999.99,
-   "ours": 2999.99,
+   "ours": 2899.99,
    "img": "A60",
    "details": [
     "Sony 4K OLED (2026) with self-lit pixels",
@@ -2159,7 +2159,7 @@
    "tech": "Art",
    "series": "The Frame",
    "bb": 897.99,
-   "ours": 897.99,
+   "ours": 872.99,
    "img": "LS03",
    "details": [
     "Samsung The Frame: looks like framed art when off",
@@ -2193,7 +2193,7 @@
    "tech": "Art",
    "series": "The Frame LS03HE (2026)",
    "bb": 1199.99,
-   "ours": 1174.99,
+   "ours": 1149.99,
    "img": "LS03",
    "details": [
     "Samsung The Frame: looks like framed art when off",
@@ -2312,7 +2312,7 @@
    "tech": "Art",
    "series": "The Frame LS03HE (2026)",
    "bb": 2499.99,
-   "ours": 2399.99,
+   "ours": 2299.99,
    "img": "LS03",
    "details": [
     "Samsung The Frame: looks like framed art when off",
@@ -2515,7 +2515,7 @@
    "tech": "Mini-LED",
    "series": "SQD-Mini LED",
    "bb": 1499.99,
-   "ours": 1499.99,
+   "ours": 1474.99,
    "img": "98QM8K",
    "details": [
     "TCL SQD-Mini LED flagship-class picture (2026)",
@@ -2582,7 +2582,7 @@
    "tech": "RGB",
    "series": "RGB Mini LED",
    "bb": 5999.99,
-   "ours": 5974.99,
+   "ours": 5999.99,
    "img": "RM9L",
    "details": [
     "TCL RGB Mini LED flagship",
