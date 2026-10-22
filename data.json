@@ -1732,7 +1732,6 @@
    "series": "A60 OLED (2026)",
    "bb": 999.99,
    "ours": 999.99,
-   "src": "Crutchfield",
    "img": "A60",
    "details": [
     "Sony 4K OLED (2026) with self-lit pixels",
@@ -1766,7 +1765,6 @@
    "series": "A60 OLED (2026)",
    "bb": 1299.99,
    "ours": 1299.99,
-   "src": "Crutchfield",
    "img": "A60",
    "details": [
     "Sony 4K OLED (2026) with self-lit pixels",
@@ -1800,13 +1798,63 @@
    "series": "A60 OLED (2026)",
    "bb": 2999.99,
    "ours": 2999.99,
-   "src": "Crutchfield",
    "img": "A60",
    "details": [
     "Sony 4K OLED (2026) with self-lit pixels",
     "Google TV with Gemini",
     "Dolby Vision and Dolby Atmos",
     "Apple AirPlay and Chromecast built-in"
+   ]
+  },
+  {
+   "brand": "Neptune (Peerless-AV)",
+   "model": "NT553",
+   "size": 55,
+   "tech": "Outdoor",
+   "series": "Outdoor TV with outdoor tilt mount",
+   "bb": 1699,
+   "ours": 1699,
+   "src": "Neptune MSRP",
+   "img": "NEPTUNE",
+   "details": [
+    "Neptune outdoor smart TV built for Colorado weather",
+    "Weatherproof design for patios and covered outdoor spaces",
+    "Bright 4K picture for outdoor viewing",
+    "Includes outdoor tilt wall mount"
+   ]
+  },
+  {
+   "brand": "Neptune (Peerless-AV)",
+   "model": "NT653",
+   "size": 65,
+   "tech": "Outdoor",
+   "series": "Outdoor TV with outdoor tilt mount",
+   "bb": 2499,
+   "ours": 2399,
+   "src": "Neptune MSRP",
+   "img": "NEPTUNE",
+   "details": [
+    "Neptune outdoor smart TV built for Colorado weather",
+    "Weatherproof design for patios and covered outdoor spaces",
+    "Bright 4K picture for outdoor viewing",
+    "Includes outdoor tilt wall mount"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN32LS03CB",
+   "size": 32,
+   "tech": "Art",
+   "series": "The Frame",
+   "bb": 599.99,
+   "ours": 574.99,
+   "img": "LS03",
+   "details": [
+    "Samsung The Frame: looks like framed art when off",
+    "Art Mode with a rotating art collection",
+    "Anti-reflection matte display",
+    "Customizable bezels (sold separately)",
+    "Samsung Vision AI with Tizen"
    ]
   },
   {
@@ -1843,6 +1891,73 @@
     "XR Processor with AI picture enhancement",
     "Google TV with Google Assistant and AirPlay 2",
     "Acoustic Surface Audio+: sound from the screen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN85LS03HE",
+   "size": 85,
+   "tech": "Art",
+   "series": "The Frame LS03HE (2026)",
+   "bb": 2499.99,
+   "ours": 2399.99,
+   "img": "LS03",
+   "details": [
+    "Samsung The Frame: looks like framed art when off",
+    "Art Mode with a rotating art collection",
+    "Anti-reflection matte display",
+    "Customizable bezels (sold separately)",
+    "Samsung Vision AI with Tizen"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "55A400U",
+   "size": 55,
+   "tech": "Art",
+   "series": "NXTVISION Pro, anti-glare",
+   "bb": 899.99,
+   "ours": 899.99,
+   "img": "A400",
+   "details": [
+    "TCL A400U Designer Series art TV (2026)",
+    "QD-Mini LED picture with anti-glare matte screen",
+    "Built-in art library",
+    "Flush wall mount for a framed-art look",
+    "Google TV"
+   ]
+  },
+  {
+   "brand": "TCL",
+   "model": "85A400U",
+   "size": 85,
+   "tech": "Art",
+   "series": "A400U Designer Series QD-Mini LED art TV (2026)",
+   "bb": 1799.99,
+   "ours": 1774.99,
+   "img": "A400",
+   "details": [
+    "TCL A400U Designer Series art TV (2026)",
+    "QD-Mini LED picture with anti-glare matte screen",
+    "Built-in art library",
+    "Flush wall mount for a framed-art look",
+    "Google TV"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "UN85M70HA",
+   "size": 85,
+   "tech": "Mini-LED",
+   "series": "Mini LED",
+   "bb": 999.99,
+   "ours": 999.99,
+   "img": "M80H",
+   "details": [
+    "4K Mini LED backlight",
+    "Samsung Vision AI with Tizen",
+    "4K AI upscaling",
+    "Samsung TV Plus free channels"
    ]
   }
  ]
