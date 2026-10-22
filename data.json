@@ -575,6 +575,24 @@
   },
   {
    "brand": "LG",
+   "model": "OLED77C6",
+   "size": 77,
+   "tech": "OLED",
+   "series": "OLED evo - model to confirm",
+   "bb": 1999.99,
+   "ours": 1974.99,
+   "img": "OLED83C6",
+   "details": [
+    "LG OLED evo C6: over 8.3 million self-lit pixels",
+    "Alpha 11 AI Processor Gen3",
+    "120Hz with NVIDIA G-Sync and AMD FreeSync Premium",
+    "Dolby Vision and Dolby Atmos",
+    "4 HDMI inputs",
+    "webOS 26 with Google Gemini and Microsoft Copilot voice"
+   ]
+  },
+  {
+   "brand": "LG",
    "model": "OLED77G6",
    "size": 77,
    "tech": "OLED",
@@ -2006,6 +2024,23 @@
    ]
   },
   {
+   "brand": "LG",
+   "model": "OLED77W6",
+   "size": 77,
+   "tech": "Art",
+   "series": "OLED evo Wallpaper TV",
+   "bb": 3999.99,
+   "ours": 3799.99,
+   "img": "W6",
+   "details": [
+    "LG OLED evo Wallpaper TV: ultra-thin, mounts flush to the wall",
+    "Self-lit OLED pixels for perfect black",
+    "Wireless connection box keeps cables out of sight",
+    "Dolby Vision and Dolby Atmos",
+    "webOS with LG Channels"
+   ]
+  },
+  {
    "brand": "Samsung",
    "model": "MRN55R85HA",
    "size": 55,
@@ -2438,6 +2473,23 @@
     "Built-in art library",
     "Flush wall mount for a framed-art look",
     "Google TV"
+   ]
+  },
+  {
+   "brand": "LG",
+   "model": "OLED83W6",
+   "size": 83,
+   "tech": "Art",
+   "series": "OLED evo Wallpaper TV",
+   "bb": 5499.99,
+   "ours": 5299.99,
+   "img": "W6",
+   "details": [
+    "LG OLED evo Wallpaper TV: ultra-thin, mounts flush to the wall",
+    "Self-lit OLED pixels for perfect black",
+    "Wireless connection box keeps cables out of sight",
+    "Dolby Vision and Dolby Atmos",
+    "webOS with LG Channels"
    ]
   },
   {
