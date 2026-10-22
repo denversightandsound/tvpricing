@@ -1,5 +1,5 @@
 {
- "checked": "Oct 16\u201321, 2026",
+ "checked": "Oct 20\u201321, 2026",
  "tvs": [
   {
    "brand": "Sony",
@@ -101,23 +101,6 @@
     "Acoustic Surface Audio+: sound comes from the screen",
     "Google TV with Google Assistant and AirPlay 2",
     "HDMI 2.1 gaming features with PS5 extras"
-   ]
-  },
-  {
-   "brand": "Sony",
-   "model": "K75S30",
-   "size": 75,
-   "tech": "LED",
-   "series": "BRAVIA 3 LED",
-   "bb": 1284.99,
-   "ours": 1184.99,
-   "img": "K43S30",
-   "details": [
-    "BRAVIA 3 4K HDR LED",
-    "4K HDR Processor X1 with Triluminos Pro color",
-    "Google TV with Google Assistant",
-    "Apple AirPlay 2 and Chromecast built-in",
-    "Dolby Vision and Dolby Atmos support"
    ]
   },
   {
@@ -260,8 +243,8 @@
    "size": 55,
    "tech": "Mini-LED",
    "series": "BRAVIA 5 Mini LED",
-   "bb": 1398,
-   "ours": 1373,
+   "bb": 1399.99,
+   "ours": 1374.99,
    "img": "K98XR50",
    "details": [
     "BRAVIA 5 Mini LED with XR Backlight Master Drive",
@@ -401,8 +384,8 @@
    "size": 85,
    "tech": "Mini-LED",
    "series": "X11L SQD-Mini LED (2026)",
-   "bb": 7999.99,
-   "ours": 7799.99,
+   "bb": 5499.99,
+   "ours": 5299.99,
    "img": "75X11L",
    "details": [
     "TCL's flagship SQD-Mini LED",
@@ -437,8 +420,8 @@
    "size": 100,
    "tech": "Mini-LED",
    "series": "QNED evo QNED84B Mini LED (2026)",
-   "bb": 3299.99,
-   "ours": 3099.99,
+   "bb": 2999.99,
+   "ours": 2799.99,
    "img": "55QNED84",
    "details": [
     "QNED evo Mini LED with Dynamic QNED Color Pro",
@@ -489,8 +472,8 @@
    "size": 42,
    "tech": "OLED",
    "series": "OLED evo C6 (2026)",
-   "bb": 999.99,
-   "ours": 974.99,
+   "bb": 1049.99,
+   "ours": 999.99,
    "img": "OLED83C6",
    "details": [
     "LG OLED evo C6: over 8.3 million self-lit pixels",
@@ -507,8 +490,8 @@
    "size": 55,
    "tech": "OLED",
    "series": "OLED evo C6 (2026)",
-   "bb": 1399.99,
-   "ours": 1349.99,
+   "bb": 999.99,
+   "ours": 999.99,
    "img": "OLED83C6",
    "details": [
     "LG OLED evo C6: over 8.3 million self-lit pixels",
@@ -543,8 +526,8 @@
    "size": 65,
    "tech": "OLED",
    "series": "OLED evo C6 (2026)",
-   "bb": 1499.99,
-   "ours": 1449.99,
+   "bb": 1399.99,
+   "ours": 1374.99,
    "img": "OLED83C6",
    "details": [
     "LG OLED evo C6: over 8.3 million self-lit pixels",
@@ -633,8 +616,8 @@
    "size": 83,
    "tech": "OLED",
    "series": "OLED evo C6 (2026)",
-   "bb": 3799.99,
-   "ours": 3599.99,
+   "bb": 3299.99,
+   "ours": 3199.99,
    "img": "OLED83C6",
    "details": [
     "LG OLED evo C6: over 8.3 million self-lit pixels",
