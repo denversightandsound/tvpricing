@@ -156,6 +156,22 @@
   },
   {
    "brand": "Samsung",
+   "model": "UN32H5000F",
+   "size": 32,
+   "tech": "LED",
+   "series": "Full HD smart TV",
+   "bb": 149.99,
+   "ours": 149.99,
+   "img": "UN32F6000FFXZA_005_Front_Black",
+   "details": [
+    "32\" HD LED smart TV (2025)",
+    "Samsung Tizen smart platform with Samsung TV Plus free channels",
+    "Samsung Knox security",
+    "Simple, budget-friendly choice for secondary rooms"
+   ]
+  },
+  {
+   "brand": "Samsung",
    "model": "UN32F6000F",
    "size": 32,
    "tech": "LED",
@@ -1710,6 +1726,23 @@
   },
   {
    "brand": "Sony",
+   "model": "K48A60",
+   "size": 48,
+   "tech": "OLED",
+   "series": "A60 OLED (2026)",
+   "bb": 999.99,
+   "ours": 999.99,
+   "src": "Crutchfield",
+   "img": "A60",
+   "details": [
+    "Sony 4K OLED (2026) with self-lit pixels",
+    "Google TV with Gemini",
+    "Dolby Vision and Dolby Atmos",
+    "Apple AirPlay and Chromecast built-in"
+   ]
+  },
+  {
+   "brand": "Sony",
    "model": "K55A60",
    "size": 55,
    "tech": "OLED",
@@ -1717,6 +1750,24 @@
    "bb": 1099.99,
    "ours": 1099.99,
    "src": "Crutchfield",
+   "img": "A60",
+   "details": [
+    "Sony 4K OLED (2026) with self-lit pixels",
+    "Google TV with Gemini",
+    "Dolby Vision and Dolby Atmos",
+    "Apple AirPlay and Chromecast built-in"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K65A60",
+   "size": 65,
+   "tech": "OLED",
+   "series": "A60 OLED (2026)",
+   "bb": 1299.99,
+   "ours": 1299.99,
+   "src": "Crutchfield",
+   "img": "A60",
    "details": [
     "Sony 4K OLED (2026) with self-lit pixels",
     "Google TV with Gemini",
@@ -1733,11 +1784,65 @@
    "bb": 1799.99,
    "ours": 1799.99,
    "src": "Crutchfield",
+   "img": "A60",
    "details": [
     "Sony 4K OLED (2026) with self-lit pixels",
     "Google TV with Gemini",
     "Dolby Vision and Dolby Atmos",
     "Apple AirPlay and Chromecast built-in"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K83A60",
+   "size": 83,
+   "tech": "OLED",
+   "series": "A60 OLED (2026)",
+   "bb": 2999.99,
+   "ours": 2999.99,
+   "src": "Crutchfield",
+   "img": "A60",
+   "details": [
+    "Sony 4K OLED (2026) with self-lit pixels",
+    "Google TV with Gemini",
+    "Dolby Vision and Dolby Atmos",
+    "Apple AirPlay and Chromecast built-in"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K65XR80M2",
+   "size": 65,
+   "tech": "OLED",
+   "series": "BRAVIA 8 II QD-OLED",
+   "bb": 2798,
+   "ours": 2698,
+   "src": "Crutchfield",
+   "img": "XR80M2",
+   "details": [
+    "Sony BRAVIA 8 II QD-OLED",
+    "Brightest Sony OLED with QD-OLED color",
+    "XR Processor with AI picture enhancement",
+    "Google TV with Google Assistant and AirPlay 2",
+    "Acoustic Surface Audio+: sound from the screen"
+   ]
+  },
+  {
+   "brand": "Sony",
+   "model": "K55XR80M2",
+   "size": 55,
+   "tech": "OLED",
+   "series": "BRAVIA 8 II QD-OLED (2025)",
+   "bb": 2298,
+   "ours": 2198,
+   "src": "Crutchfield",
+   "img": "XR80M2",
+   "details": [
+    "Sony BRAVIA 8 II QD-OLED",
+    "Brightest Sony OLED with QD-OLED color",
+    "XR Processor with AI picture enhancement",
+    "Google TV with Google Assistant and AirPlay 2",
+    "Acoustic Surface Audio+: sound from the screen"
    ]
   }
  ]
