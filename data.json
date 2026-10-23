@@ -438,7 +438,7 @@
    "tech": "Mini-LED",
    "series": "QNED evo QNED84B Mini LED (2026)",
    "bb": 599.99,
-   "ours": 574.99,
+   "ours": 599.99,
    "img": "55QNED84",
    "details": [
     "QNED evo Mini LED with Dynamic QNED Color Pro",
@@ -473,7 +473,7 @@
    "tech": "OLED",
    "series": "OLED evo C6 (2026)",
    "bb": 1049.99,
-   "ours": 999.99,
+   "ours": 1024.99,
    "img": "OLED83C6",
    "details": [
     "LG OLED evo C6: over 8.3 million self-lit pixels",
@@ -491,7 +491,7 @@
    "tech": "OLED",
    "series": "OLED evo C6 (2026)",
    "bb": 999.99,
-   "ours": 999.99,
+   "ours": 974.99,
    "img": "OLED83C6",
    "details": [
     "LG OLED evo C6: over 8.3 million self-lit pixels",
@@ -527,7 +527,7 @@
    "tech": "OLED",
    "series": "OLED evo C6 (2026)",
    "bb": 1399.99,
-   "ours": 1374.99,
+   "ours": 1349.99,
    "img": "OLED83C6",
    "details": [
     "LG OLED evo C6: over 8.3 million self-lit pixels",
@@ -563,7 +563,7 @@
    "tech": "OLED",
    "series": "OLED evo - model to confirm",
    "bb": 1999.99,
-   "ours": 1974.99,
+   "ours": 1899.99,
    "img": "OLED83C6",
    "details": [
     "LG OLED evo C6: over 8.3 million self-lit pixels",
@@ -617,7 +617,7 @@
    "tech": "OLED",
    "series": "OLED evo C6 (2026)",
    "bb": 3299.99,
-   "ours": 3199.99,
+   "ours": 3099.99,
    "img": "OLED83C6",
    "details": [
     "LG OLED evo C6: over 8.3 million self-lit pixels",
@@ -1285,7 +1285,7 @@
    "tech": "RGB",
    "series": "BRAVIA 7 II True RGB",
    "bb": 1699.99,
-   "ours": 1699.99,
+   "ours": 1674.99,
    "img": "BRAVIA7II",
    "details": [
     "Sony True RGB: red, green and blue LEDs for vivid, accurate color",
@@ -1468,7 +1468,7 @@
    "tech": "RGB",
    "series": "BRAVIA 7 II PRO True RGB (3-yr warranty)",
    "bb": 2549.99,
-   "ours": 2549.99,
+   "ours": 2449.99,
    "src": "Crutchfield",
    "img": "BRAVIA7II",
    "details": [
@@ -1485,7 +1485,7 @@
    "tech": "RGB",
    "series": "BRAVIA 7 II True RGB",
    "bb": 2299.99,
-   "ours": 2299.99,
+   "ours": 2249.99,
    "src": "Crutchfield",
    "img": "BRAVIA7II",
    "details": [
