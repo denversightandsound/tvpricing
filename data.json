@@ -1,5 +1,5 @@
 {
- "checked": "Oct 26, 2026",
+ "checked": "Oct 26\u2013Nov 4, 2026",
  "tvs": [
   {
    "brand": "Sony",
@@ -175,8 +175,8 @@
    "size": 98,
    "tech": "Mini-LED",
    "series": "BRAVIA 5 Mini LED (2025)",
-   "bb": 4999.99,
-   "ours": 4799.99,
+   "bb": 3199.99,
+   "ours": 2999.99,
    "img": "K98XR50",
    "details": [
     "BRAVIA 5 Mini LED with XR Backlight Master Drive",
@@ -260,8 +260,8 @@
    "size": 115,
    "tech": "Mini-LED",
    "series": "QM7K QD-Mini LED",
-   "bb": 13999.99,
-   "ours": 13799.99,
+   "bb": 9999.99,
+   "ours": 9799.99,
    "img": "115QM7K",
    "details": [
     "QD-Mini LED with up to 2,500 dimming zones (size-dependent)",
@@ -1383,8 +1383,8 @@
    "size": 85,
    "tech": "RGB",
    "series": "BRAVIA 7 II PRO True RGB (3-yr warranty)",
-   "bb": 4299.99,
-   "ours": 4099.99,
+   "bb": 3799.99,
+   "ours": 3599.99,
    "src": "Crutchfield",
    "img": "BRAVIA7II",
    "details": [
@@ -1400,8 +1400,8 @@
    "size": 85,
    "tech": "RGB",
    "series": "BRAVIA 7 II True RGB",
-   "bb": 3999.99,
-   "ours": 3799.99,
+   "bb": 3499.99,
+   "ours": 3299.99,
    "src": "Crutchfield",
    "img": "BRAVIA7II",
    "details": [
@@ -1551,8 +1551,8 @@
    "size": 65,
    "tech": "RGB",
    "series": "BRAVIA 7 II PRO True RGB (3-yr warranty)",
-   "bb": 1999.99,
-   "ours": 1899.99,
+   "bb": 1799.99,
+   "ours": 1774.99,
    "src": "Crutchfield",
    "img": "BRAVIA7II",
    "details": [
@@ -1568,8 +1568,8 @@
    "size": 65,
    "tech": "RGB",
    "series": "BRAVIA 7 II True RGB",
-   "bb": 1799.99,
-   "ours": 1699.99,
+   "bb": 1599.99,
+   "ours": 1574.99,
    "src": "Crutchfield",
    "img": "BRAVIA7II",
    "details": [
@@ -1601,8 +1601,8 @@
    "size": 50,
    "tech": "RGB",
    "series": "BRAVIA 7 II True RGB",
-   "bb": 1599.99,
-   "ours": 1499.99,
+   "bb": 1299.99,
+   "ours": 1274.99,
    "src": "Crutchfield",
    "img": "BRAVIA7II",
    "details": [
@@ -2140,7 +2140,7 @@
    "model": "QN55LS03HW",
    "size": 55,
    "tech": "Art",
-   "series": "The Frame Neo QLED, Art Mode (2026)",
+   "series": "The Frame Pro (Neo QLED, 2026)",
    "bb": 1099.99,
    "ours": 1049.99,
    "img": "LS03",
@@ -2208,7 +2208,7 @@
    "model": "QN65LS03HW",
    "size": 65,
    "tech": "Art",
-   "series": "The Frame Neo QLED, Art Mode (2026)",
+   "series": "The Frame Pro (Neo QLED, 2026)",
    "bb": 1599.99,
    "ours": 1499.99,
    "img": "LS03",
@@ -2243,8 +2243,8 @@
    "size": 75,
    "tech": "Art",
    "series": "The Frame LS03HE (2026)",
-   "bb": 1599.99,
-   "ours": 1499.99,
+   "bb": 1499.99,
+   "ours": 1449.99,
    "img": "LS03",
    "details": [
     "Samsung The Frame: looks like framed art when off",
@@ -2259,7 +2259,7 @@
    "model": "QN75LS03HW",
    "size": 75,
    "tech": "Art",
-   "series": "The Frame Neo QLED, Art Mode (2026)",
+   "series": "The Frame Pro (Neo QLED, 2026)",
    "bb": 2199.99,
    "ours": 2099.99,
    "img": "LS03",
@@ -2311,8 +2311,8 @@
    "size": 85,
    "tech": "Art",
    "series": "The Frame LS03HE (2026)",
-   "bb": 2499.99,
-   "ours": 2299.99,
+   "bb": 2299.99,
+   "ours": 2199.99,
    "img": "LS03",
    "details": [
     "Samsung The Frame: looks like framed art when off",
@@ -2327,7 +2327,7 @@
    "model": "QN85LS03HW",
    "size": 85,
    "tech": "Art",
-   "series": "The Frame Neo QLED, Art Mode (2026)",
+   "series": "The Frame Pro (Neo QLED, 2026)",
    "bb": 3299.99,
    "ours": 3099.99,
    "img": "LS03",
@@ -2621,6 +2621,23 @@
     "Very wide color range with precise local control",
     "Samsung Vision AI processing",
     "A 115\" flagship statement screen"
+   ]
+  },
+  {
+   "brand": "Samsung",
+   "model": "QN43LS03FA",
+   "size": 43,
+   "tech": "Art",
+   "series": "The Frame LS03F (2025)",
+   "bb": 799.99,
+   "ours": 774.99,
+   "img": "LS03",
+   "details": [
+    "Samsung The Frame: looks like framed art when off",
+    "Art Mode with a rotating art collection",
+    "Anti-reflection matte display",
+    "Customizable bezels (sold separately)",
+    "Samsung Vision AI with Tizen"
    ]
   }
  ]
