@@ -1,5 +1,5 @@
 {
- "checked": "Nov 4, 2026",
+ "checked": "Nov 4\u20139, 2026",
  "tvs": [
   {
    "brand": "Sony",
@@ -109,8 +109,8 @@
    "size": 77,
    "tech": "OLED",
    "series": "BRAVIA 8 OLED",
-   "bb": 2499.99,
-   "ours": 2399.99,
+   "bb": 2299.99,
+   "ours": 2274.99,
    "img": "K77XR80",
    "details": [
     "BRAVIA 8 OLED: over 8 million self-lit pixels for true black",
@@ -472,8 +472,8 @@
    "size": 42,
    "tech": "OLED",
    "series": "OLED evo C6 (2026)",
-   "bb": 949.99,
-   "ours": 924.99,
+   "bb": 899.99,
+   "ours": 874.99,
    "img": "OLED83C6",
    "details": [
     "LG OLED evo C6: over 8.3 million self-lit pixels",
@@ -544,8 +544,8 @@
    "size": 65,
    "tech": "OLED",
    "series": "OLED evo G6 (2026)",
-   "bb": 2299.99,
-   "ours": 2199.99,
+   "bb": 1999.99,
+   "ours": 1974.99,
    "img": "OLED97G6",
    "details": [
     "LG OLED evo G6 with Brightness Booster",
