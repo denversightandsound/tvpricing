@@ -2642,16 +2642,6 @@
 },
 {
 "brand": "SunBrite",
-"model": "SB-V4-49-BL",
-"size": 49,
-"tech": "Outdoor",
-"series": "Veranda 4 Full Shade 4K Smart",
-"bb": 2198.95,
-"ours": 2098.95,
-"src": "SunBrite"
-},
-{
-"brand": "SunBrite",
 "model": "SB-V4-55-BL",
 "size": 55,
 "tech": "Outdoor",
@@ -2672,56 +2662,6 @@
 },
 {
 "brand": "SunBrite",
-"model": "SB-V4-75-BL",
-"size": 75,
-"tech": "Outdoor",
-"series": "Veranda 4 Full Shade 4K Smart",
-"bb": 4648.95,
-"ours": 4448.95,
-"src": "SunBrite"
-},
-{
-"brand": "SunBrite",
-"model": "SB-S2-55-4K-BL",
-"size": 55,
-"tech": "Outdoor",
-"series": "Signature 2 Partial Sun 4K",
-"bb": 4868.95,
-"ours": 4668.95,
-"src": "SunBrite"
-},
-{
-"brand": "SunBrite",
-"model": "SB-S2-65-4K-BL",
-"size": 65,
-"tech": "Outdoor",
-"series": "Signature 2 Partial Sun 4K",
-"bb": 7158.95,
-"ours": 6958.95,
-"src": "SunBrite"
-},
-{
-"brand": "SunBrite",
-"model": "SB-S2-75-4K-BL",
-"size": 75,
-"tech": "Outdoor",
-"series": "Signature 2 Partial Sun 4K",
-"bb": 10818.95,
-"ours": 10618.95,
-"src": "SunBrite"
-},
-{
-"brand": "SunBrite",
-"model": "SB-FS-49-BL",
-"size": 49,
-"tech": "Outdoor",
-"series": "Solis Full Sun 4K Smart",
-"bb": 2648.95,
-"ours": 2448.95,
-"src": "SunBrite"
-},
-{
-"brand": "SunBrite",
 "model": "SB-FS-55-BL",
 "size": 55,
 "tech": "Outdoor",
@@ -2738,36 +2678,6 @@
 "series": "Solis Full Sun 4K Smart",
 "bb": 3998.95,
 "ours": 3798.95,
-"src": "SunBrite"
-},
-{
-"brand": "SunBrite",
-"model": "SB-FS-75-BL",
-"size": 75,
-"tech": "Outdoor",
-"series": "Solis Full Sun 4K Smart",
-"bb": 5498.95,
-"ours": 5298.95,
-"src": "SunBrite"
-},
-{
-"brand": "SunBrite",
-"model": "SB-P2-49-4K-BL",
-"size": 49,
-"tech": "Outdoor",
-"series": "Pro 2 Full Sun 4K (1000 nit)",
-"bb": 5418.95,
-"ours": 5218.95,
-"src": "SunBrite"
-},
-{
-"brand": "SunBrite",
-"model": "SB-P2-55-4K-BL",
-"size": 55,
-"tech": "Outdoor",
-"series": "Pro 2 Full Sun 4K (1000 nit)",
-"bb": 6728.95,
-"ours": 6528.95,
 "src": "SunBrite"
 }
 ]
