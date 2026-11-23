@@ -1,5 +1,5 @@
 {
-"checked": "Nov 16, 2026",
+"checked": "Nov 23, 2026",
 "tvs": [
 {
 "brand": "Sony",
@@ -127,8 +127,8 @@
 "size": 40,
 "tech": "LED",
 "series": "F6000F Full HD (2025)",
-"bb": 199.99,
-"ours": 199.99,
+"bb": 169.99,
+"ours": 169.99,
 "img": "UN32F6000FFXZA_005_Front_Black",
 "details": [
 "Full HD LED smart TV (2025)",
@@ -159,8 +159,8 @@
 "size": 32,
 "tech": "LED",
 "series": "F6000F Full HD (2025)",
-"bb": 179.99,
-"ours": 179.99,
+"bb": 149.99,
+"ours": 149.99,
 "img": "UN32F6000FFXZA_005_Front_Black",
 "details": [
 "Full HD LED smart TV (2025)",
@@ -261,7 +261,7 @@
 "tech": "Mini-LED",
 "series": "QM7K QD-Mini LED",
 "bb": 9999.99,
-"ours": 9999.99,
+"ours": 9799.99,
 "img": "115QM7K",
 "details": [
 "QD-Mini LED with up to 2,500 dimming zones (size-dependent)",
@@ -297,7 +297,7 @@
 "tech": "Mini-LED",
 "series": "QM7K QD-Mini LED",
 "bb": 949.99,
-"ours": 949.99,
+"ours": 924.99,
 "img": "115QM7K",
 "details": [
 "QD-Mini LED with up to 2,500 dimming zones (size-dependent)",
@@ -315,7 +315,7 @@
 "tech": "Mini-LED",
 "series": "QM8K QD-Mini LED",
 "bb": 1424.99,
-"ours": 1374.99,
+"ours": 1324.99,
 "img": "98QM8K",
 "details": [
 "QD-Mini LED with up to 3,800 dimming zones",
@@ -403,7 +403,7 @@
 "tech": "Mini-LED",
 "series": "X11L SQD-Mini LED (2026)",
 "bb": 2999.99,
-"ours": 2974.99,
+"ours": 2899.99,
 "img": "75X11L",
 "details": [
 "TCL's flagship SQD-Mini LED",
@@ -420,8 +420,8 @@
 "size": 100,
 "tech": "Mini-LED",
 "series": "QNED evo QNED84B Mini LED (2026)",
-"bb": 2999.99,
-"ours": 2799.99,
+"bb": 2799.99,
+"ours": 2599.99,
 "img": "55QNED84",
 "details": [
 "QNED evo Mini LED with Dynamic QNED Color Pro",
@@ -437,8 +437,8 @@
 "size": 55,
 "tech": "Mini-LED",
 "series": "QNED evo QNED84B Mini LED (2026)",
-"bb": 549.99,
-"ours": 549.99,
+"bb": 479.99,
+"ours": 479.99,
 "img": "55QNED84",
 "details": [
 "QNED evo Mini LED with Dynamic QNED Color Pro",
@@ -490,8 +490,8 @@
 "size": 55,
 "tech": "OLED",
 "series": "OLED evo C6 (2026)",
-"bb": 1299.99,
-"ours": 1249.99,
+"bb": 1199.99,
+"ours": 1149.99,
 "img": "OLED83C6",
 "details": [
 "LG OLED evo C6: over 8.3 million self-lit pixels",
@@ -563,7 +563,7 @@
 "tech": "OLED",
 "series": "OLED evo - model to confirm",
 "bb": 1999.99,
-"ours": 1949.99,
+"ours": 1899.99,
 "img": "OLED83C6",
 "details": [
 "LG OLED evo C6: over 8.3 million self-lit pixels",
@@ -957,7 +957,7 @@
 "tech": "Mini-LED",
 "series": "QN70H Neo QLED (2026)",
 "bb": 1599.99,
-"ours": 1574.99,
+"ours": 1549.99,
 "img": "QN75QN70HAFXZA_006_Front2_Black",
 "details": [
 "Neo QLED with Quantum Mini LED",
@@ -1140,7 +1140,7 @@
 "tech": "Mini-LED",
 "series": "QM7L SQD-Mini LED (2026)",
 "bb": 1999.99,
-"ours": 1974.99,
+"ours": 1949.99,
 "img": "QM7L",
 "details": [
 "TCL SQD-Mini LED (2026) with precise local dimming",
@@ -1418,7 +1418,7 @@
 "tech": "LED",
 "series": "BRAVIA 3 II LED",
 "bb": 1199.99,
-"ours": 1199.99,
+"ours": 1174.99,
 "img": "BRAVIA3II",
 "details": [
 "Sony 4K HDR LED (2026)",
@@ -1569,7 +1569,7 @@
 "tech": "RGB",
 "series": "BRAVIA 7 II True RGB",
 "bb": 1599.99,
-"ours": 1549.99,
+"ours": 1574.99,
 "src": "Crutchfield",
 "img": "BRAVIA7II",
 "details": [
