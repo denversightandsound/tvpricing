@@ -2261,7 +2261,7 @@
 "tech": "Art",
 "series": "The Frame Pro (Neo QLED, 2026)",
 "bb": 1999.99,
-"ours": 1949.99,
+"ours": 1899.99,
 "img": "LS03",
 "details": [
 "Samsung The Frame: looks like framed art when off",
@@ -2329,7 +2329,7 @@
 "tech": "Art",
 "series": "The Frame Pro (Neo QLED, 2026)",
 "bb": 2999.99,
-"ours": 2899.99,
+"ours": 2799.99,
 "img": "LS03",
 "details": [
 "Samsung The Frame: looks like framed art when off",
@@ -2414,7 +2414,7 @@
 "tech": "Art",
 "series": "A300W NXTVISION QLED art TV (2024)",
 "bb": 1709.99,
-"ours": 1609.99,
+"ours": 1509.99,
 "img": "A300",
 "details": [
 "TCL NXTVISION art TV with matte, low-glare screen",
@@ -2515,7 +2515,7 @@
 "tech": "Mini-LED",
 "series": "SQD-Mini LED",
 "bb": 1399.99,
-"ours": 1399.99,
+"ours": 1374.99,
 "img": "98QM8K",
 "details": [
 "TCL SQD-Mini LED flagship-class picture (2026)",
@@ -2532,7 +2532,7 @@
 "tech": "Mini-LED",
 "series": "SQD-Mini LED",
 "bb": 2299.99,
-"ours": 2299.99,
+"ours": 2249.99,
 "img": "98QM8K",
 "details": [
 "TCL SQD-Mini LED flagship-class picture (2026)",
@@ -2549,7 +2549,7 @@
 "tech": "RGB",
 "series": "RGB Mini LED",
 "bb": 3999.99,
-"ours": 3999.99,
+"ours": 3799.99,
 "img": "RM9L",
 "details": [
 "TCL RGB Mini LED flagship",
@@ -2565,7 +2565,7 @@
 "tech": "Mini-LED",
 "series": "SQD-Mini LED",
 "bb": 2999.99,
-"ours": 2999.99,
+"ours": 2899.99,
 "img": "98QM8K",
 "details": [
 "TCL SQD-Mini LED flagship-class picture (2026)",
@@ -2582,7 +2582,7 @@
 "tech": "RGB",
 "series": "RGB Mini LED",
 "bb": 5999.99,
-"ours": 5999.99,
+"ours": 5799.99,
 "img": "RM9L",
 "details": [
 "TCL RGB Mini LED flagship",
@@ -2647,7 +2647,7 @@
 "tech": "Outdoor",
 "series": "Veranda 4 Full Shade 4K Smart",
 "bb": 2398.95,
-"ours": 2298.95,
+"ours": 2198.95,
 "src": "SunBrite"
 },
 {
